@@ -1,0 +1,3313 @@
+Transcription of: EMPRENDIMIENTO-WEEK4-20261028-010413.mp3
+Detected language: es (probability: 1.00)
+
+[3.3s → 18.0s] Listo. Buenas noches con todos. Agradecerles su puntualidad, su presencia para justamente este momento sincrónico que hay dentro de la cátedra de emprendimiento. Les voy a compartir la pantalla. Espérenme un momento.
+[18.0s → 44.1s] Estamos ahí. Listo. Entonces, bueno, nos encontramos en la semana 4 justamente del módulo de emprendimiento hablando justamente de la unidad 2 que ya comenzamos, que es justamente empatizando con el entorno y generación de ideas, que es lo que vamos a adentrarnos desde esta semana.
+[44.1s → 66.4s] Y entonces, bueno, ¿cuáles son los objetivos de aprendizaje para esta noche? Son, bueno, primero comprender qué es el design thinking, esta metodología que justamente ustedes van a usar para el desarrollo de su portafolio emprendedor, cuáles son los principios de la metodología, las fases y, bueno, el reconocimiento justamente en cómo se desarrolla productos o servicios,
+[66.4s → 78.1s] teniendo como principal foco el desarrollo justamente a partir de que las personas están en el centro de estos procesos de desarrollo, tanto de productos como de servicios.
+[78.8s → 87.5s] Lo otro que tenemos es justamente identificar problemas reales y generar ideas innovadoras de negocio, que es parte del proceso que debemos ir generando.
+[87.7s → 92.6s] Entonces, bueno, estos son los objetivos planteados para esta sesión de la semana 4.
+[92.6s → 101.2s] Y bueno, primero, y para entender bien el desarrollo de lo que hemos planteado, deberíamos plantearnos dos preguntas.
+[101.5s → 106.0s] Por un lado, la pregunta, ¿qué es problema? Y por el otro lado, en cambio, ¿qué es necesidad?
+[106.5s → 110.3s] Entonces, quisiera saber qué entienden por problema y qué entienden por necesidad.
+[110.8s → 114.7s] Si me comentan, alguien quisiera comentarlo, les agradezco.
+[117.6s → 119.2s] ¿Qué es problema y qué es necesidad?
+[119.7s → 127.7s] Vamos con alguien a la sala.
+[128.7s → 130.0s] Buenas noches, presidente.
+[130.0s → 139.8s] Sí, el problema es cuando existe algo que se puede solucionar.
+[141.0s → 141.4s] Ya.
+[142.1s → 144.7s] La necesidad es algo que se puede adquirir.
+[146.4s → 146.8s] Ya.
+[147.9s → 152.3s] Bueno, el problema es algo que justamente se siente solventar.
+[152.7s → 154.2s] La necesidad es algo que se puede adquirir.
+[154.3s → 154.7s] Ernesto.
+[154.7s → 158.2s] Doctor, buenas noches.
+[158.3s → 159.5s] Compañeros, buenas noches.
+[159.7s → 167.1s] Considero que la necesidad es cuando nuestra existencia llega a un estado de pronto de carencia,
+[167.1s → 178.1s] de alguna dimensión, realidad, objeto o circunstancia que nos permite desarrollar la vida de una manera tranquila, pacífica,
+[178.1s → 191.3s] pacífica, meditable, y que puede ser para nuestra supervivencia, para nuestra condición de salud, nuestro estado físico, nuestra alimentación, nuestro desarrollo intelectual,
+[191.3s → 195.9s] Escolástico, de aprendizaje, etcétera, etcétera, etcétera, etcétera.
+[195.9s → 205.3s] Una necesidad, en definitiva, es la ausencia de algo que no nos permite avanzar en el desarrollo de una de las dimensiones existenciales.
+[205.3s → 218.9s] Gracias, Ernesto, por justamente esa explicación súper clara y bastante desde el punto de vista sociológico y el enfoque que nos ha permitido justamente, Ernesto.
+[219.0s → 219.9s] Vamos con Alexa.
+[221.9s → 223.4s] Buenas noches con todos.
+[223.9s → 231.8s] El problema sería más que nada un obstáculo, algo que impida seguir o una situación no favorable.
+[231.8s → 239.7s] Y lo que es la necesidad sería algo que se requiere, algo carente, algo que se busca.
+[241.5s → 243.6s] Gracias, Alexa, también bastante bien.
+[244.1s → 248.0s] ¿Alguna persona que quisiera adicionar algo en lo que es problema o necesidad?
+[250.7s → 252.6s] Y por allí, déjenme ver.
+[254.5s → 256.4s] A ver si quedó perdido el micrófono.
+[256.4s → 256.6s] Listo.
+[256.7s → 261.3s] Entonces, bueno, como bien lo mencionaron Ernesto y Alexa que nos dieron bastante información.
+[261.3s → 272.7s] Si vamos hacia un problema, justamente lo que vamos a encontrar es que muchas veces es un fallo, un desafío o una infección concreta hacia justamente un objetivo que tengamos.
+[273.2s → 282.8s] Entonces, podríamos decir que hay un problema de salud en el Ecuador, como puede ser la desnutrición crónica infartil, versus la necesidad, que en cambio es una carencia fundamental.
+[282.8s → 288.8s] Algo que justamente nos está faltando, que nos está justamente haciendo falta.
+[289.2s → 296.7s] Entonces, podríamos decir que una necesidad es la necesidad de una buena alimentación, como estudiantes de pregado o como jóvenes, justamente.
+[297.4s → 298.7s] Entonces, ahí vemos las diferencias.
+[298.8s → 304.0s] Un problema, muchas veces también cuando vemos así un enfoque de emprendimiento, el problema es mucho más macro.
+[304.6s → 309.6s] El problema es algo mucho más macro y la necesidad es algo más específico del ser humano.
+[309.6s → 322.0s] Muchas veces el problema requiere una solución más amplia y la necesidad muchas veces se centra en desarrollar productos o servicios que van ligados justamente a solventar esas necesidades muy específicas.
+[322.4s → 326.7s] En cambio, que el problema, pues muchas veces puede presentar diferentes soluciones.
+[327.3s → 333.2s] Porque supongamos, si vemos así un problema justo el que les colocaba de DCI, una única solución no es viable.
+[333.2s → 341.1s] Necesitaríamos varias, una tal vez desde un enfoque de un producto, otra vez de un servicio, otro de un proyecto y así sucesivamente diferentes.
+[341.6s → 349.4s] Pero en cambio, en el que es necesidad, puedo ser muy específico y decir, bueno, pero el problema de los jóvenes voy a generar una bebida justamente con proteína
+[349.4s → 359.5s] que los jóvenes puedan tomar y tienen todos sus, supongamos, sus beneficios que se necesitan justamente para el desarrollo integral mientras están estudiando universidad.
+[360.8s → 369.8s] Entonces, recordemos, el problema más macro, la necesidad mucho más micro, el problema va justamente hacia algo que necesitamos solucionar,
+[369.9s → 377.4s] que es un fallo del sistema y la necesidad, pues, viene a ser más una carencia que se está teniendo.
+[377.4s → 384.1s] Cuando hablamos justamente de definiciones, por ejemplo, podríamos decir que el problema también es una fricción,
+[384.5s → 386.8s] mientras que la necesidad más bien es el motor.
+[387.4s → 393.2s] Entonces, si vamos hacia una definición del problema, podríamos decir que es un obstáculo, dolor o fricción específica y contextual
+[393.2s → 396.7s] que impide a un usuario alcanzar un objetivo a realizar o una tarea.
+[397.1s → 403.0s] Mientras que la necesidad es un estado de carencia inherente del ser humano, sea algo fisiológico, psicológico o social.
+[403.5s → 405.4s] Es más que todo un impulso fundamental.
+[405.4s → 412.9s] Cuando vamos hacia una naturaleza de ambos conceptos, nos damos cuenta que, por ejemplo, el problema es mucho más tangible,
+[413.1s → 415.3s] mientras que la necesidad a veces es intangible.
+[416.0s → 420.7s] Entonces, el problema muchas veces depende del entorno, la época, herramientas disponibles.
+[421.4s → 425.1s] Entonces, mientras tanto, por otro lado, la necesidad es más intangible.
+[425.5s → 427.7s] No cambia con el tiempo ni con la tecnología.
+[427.7s → 433.6s] Entonces, al final puedo decir, sí, tengo una necesidad de superación, tengo una necesidad de salir adelante,
+[434.1s → 436.1s] tengo una necesidad de mayor conocimiento.
+[436.5s → 440.8s] Entonces, por más que cambie la tecnología, por más que yo el día de mañana siga un curso,
+[441.0s → 443.9s] voy a seguir posiblemente con esa misma necesidad.
+[444.4s → 446.6s] Mientras que el problema es más tangible.
+[446.7s → 451.7s] Y claro, si hablo de un problema, como supongamos tengo un problema con la salud mental actualmente,
+[451.7s → 459.8s] que es algo que se habla mucho, pues podré tener un enfoque más tangible del escenario como tal.
+[460.9s → 464.2s] Desde la verbalización de ambas palabras, tenemos que el problema,
+[464.7s → 469.2s] muchas veces el cliente lo expresa como una queja explícita o una frustración medible.
+[469.8s → 471.8s] Pérdida de tiempo, dinero, esfuerzo.
+[472.5s → 478.2s] Entonces, supongamos, el problema es el problema de tráfico que se da justamente en ciudades como Quito,
+[478.4s → 479.6s] Guayaquil y Cuenca hoy por hoy.
+[479.6s → 486.0s] Entonces, claro, decimos, pero pierdo mucho tiempo, pierdo dinero, pierdo esfuerzo que estoy teniendo.
+[486.6s → 487.7s] Entonces, vamos a ese punto.
+[487.8s → 493.9s] Mientras que la necesidad, cuando hablamos del cliente, como tal, el cliente rara vez lo verbaliza de forma directa.
+[494.4s → 498.3s] Suele estar muchas veces oculto bajo varias capas de comportamiento.
+[498.8s → 499.5s] ¿Qué quiere decir esto?
+[499.6s → 502.9s] Que yo no voy a decir que mi necesidad, más allá del tráfico,
+[503.3s → 506.6s] mi necesidad es de estar cómodo mientras manejo.
+[506.6s → 512.7s] Porque, claro, el problema o lo que se ve tangiblemente en esas primeras capas es que yo estoy molesto porque estoy perdiendo el tiempo.
+[513.3s → 516.3s] Pero al final, más allá del tiempo, yo tengo una necesidad de ir cómodo.
+[516.3s → 522.4s] Pero si yo estoy sentado en el tráfico sin poder moverme en una hora, me va a comenzar a doler la espalda,
+[522.6s → 529.4s] voy a necesitar un, llamémosle así, un relajante muscular, voy a necesitar un hidratante si hace mucho calor,
+[529.9s → 535.0s] voy a necesitar un saco si se comienza a hacer mucho frío o llover en estas épocas,
+[535.4s → 541.0s] voy a necesitar, supongamos que me manden información si tengo que no o no tomar una ruta,
+[541.0s → 545.6s] mientras que el otro lado el problema es ese, el problema es el tráfico, mucho más macro.
+[546.1s → 547.6s] ¿Cuál es el enfoque emprendedor?
+[548.1s → 552.3s] Muchas veces cuando hablamos del problema, hablamos de que el problema se resuelve.
+[552.5s → 553.3s] ¿Se resuelve cómo?
+[553.7s → 556.6s] Se resuelve a través de generar un producto mínimo viable,
+[557.2s → 561.5s] justamente con características específicas para eliminar esta fricción.
+[561.5s → 567.6s] Entonces supongamos, si cogemos el caso del tráfico, cuando hablamos de la plataforma Uber,
+[568.0s → 571.2s] como un ejemplo, que me imagino que la mayoría de ustedes conoce,
+[571.8s → 575.8s] hablamos justamente que ese problema del tráfico lo resolvió a través de qué?
+[576.2s → 581.6s] De su sistema de movilidad, justamente, que tú puedes pedir un vehículo desde cualquier lugar
+[581.6s → 586.2s] que te llene un punto A o un punto B, y no tienes que salir, puedes ir a la calle.
+[586.6s → 587.8s] ¿Estás resolviendo un problema?
+[588.2s → 588.4s] Sí.
+[588.6s → 589.3s] ¿En qué medida?
+[589.3s → 590.9s] Y aquí hay algo que preguntarse siempre.
+[591.3s → 593.0s] ¿En qué medida está resolviendo el problema?
+[593.6s → 596.0s] No lo resuelve totalmente, si nos damos cuenta.
+[596.3s → 601.8s] Porque cuando hablamos del tema del tráfico en las ciudades, Uber no es que lo resuelve.
+[602.4s → 607.7s] Te da un porcentaje de solución, pero al final, claro, si hay muchos Uber,
+[607.9s → 611.3s] y hay muchos taxis, y hay muchos vehículos, el tráfico se quiere igual.
+[612.2s → 613.5s] ¿Te resolvió un poco el problema?
+[613.8s → 613.9s] Sí.
+[614.3s → 617.6s] Lo que hace más Uber es satisfacer, porque muchas veces,
+[617.6s → 621.3s] desde el punto de satisfacción, en cambio, que tiene la necesidad,
+[621.7s → 626.3s] utiliza la necesidad para conectar con un mensaje de marketing, con una propuesta de valor,
+[626.9s → 629.1s] con las actividades que hace el cliente muchas veces.
+[629.1s → 635.7s] Entonces, ahí estamos hablando que justamente la necesidad que encontró para satisfacer Uber,
+[636.1s → 642.7s] justamente es, por ejemplo, el tema de seguridad, el tema de agilidad, el tema de rapidez en el pago.
+[643.5s → 647.8s] Entonces, claro, pero al final eso es parte de su propuesta de valor.
+[647.8s → 651.5s] No está resolviendo al 100% el tema de movilidad.
+[652.1s → 657.6s] Está más que todo satisfeciendo las necesidades ocultas que fue encontrando en los clientes.
+[658.4s → 662.2s] ¿Cuáles son mitos a derribar cuando hablamos de problema y cuando hablamos de necesidad?
+[662.2s → 668.0s] Por un lado, cuando hablamos de problema, tenemos que el mito es que muchas veces no podemos encontrar con esto.
+[668.1s → 671.2s] Mi idea es tan buena que no necesito resolver un problema real.
+[671.9s → 675.9s] Es totalmente falso, porque sin problema no hay disposición a pagar.
+[676.5s → 683.3s] Si yo el día de mañana digo es que mi producto que estoy realizando es un producto justamente nutritivo,
+[683.4s → 686.3s] es tan bueno que cualquier familia del Ecuador me va a consumir.
+[686.3s → 690.9s] sea una familia de la sierra ecuatoriana, de la costa, de la Amazonía, región y ciudad,
+[691.7s → 694.5s] me va a comprar el producto, porque es muy bueno de sabor.
+[695.2s → 697.0s] Pero al final el producto no resuelve nada.
+[697.6s → 700.6s] Entonces al final ¿quién te va a pagar por algo que muchas veces,
+[701.1s → 705.2s] más que todo tú lo hiciste en base a que creías que existía ese problema?
+[706.0s → 708.8s] Entonces acaba siendo un mito que se ve en el tema del problema.
+[709.4s → 713.2s] ¿Cuál es en cambio el mito que muchas veces existe en torno a la necesidad?
+[713.2s → 718.5s] Pues por ejemplo, el marketing de mi empresa va a crear una nueva necesidad a la gente.
+[719.1s → 719.6s] Y eso es falso.
+[719.8s → 725.9s] Muchas veces nos venden esa idea de que hay empresas o marketing que buscan justamente crear necesidades.
+[726.5s → 729.1s] Tiene que ver con un lado más del neuromarketing y todo eso.
+[729.3s → 734.0s] Pero es falso, porque el marketing solo despierta necesidades que ya están latentes.
+[734.6s → 736.7s] No es que el marketing se inventa necesidades.
+[736.7s → 745.6s] Al final la necesidad justamente de agilidad en el pago, de seguridad mientras te movilizabas en un taxi o en un vehículo ya existía.
+[746.3s → 749.4s] O sea, no es que llegó el marketing y se inventó la necesidad.
+[749.5s → 751.1s] No, eso ya existía.
+[751.2s → 753.4s] Había que hacer mucha investigación y era diferente.
+[754.0s → 757.3s] Pero al final, si varios de ustedes, tal vez en algún momento,
+[757.4s → 759.1s] me imagino que la mayoría de ustedes son jóvenes,
+[759.1s → 764.0s] pero si recordamos hace un tiempo o qué es lo que pasaba muchas veces cuando tomabas un taxi amarillo,
+[764.5s → 767.9s] es que te generaba inseguridad porque no sabías el nombre de la persona que te llevaba.
+[768.0s → 768.9s] No sabías el auto.
+[769.4s → 770.7s] No podías enviar información.
+[771.4s → 774.2s] Entonces al final esa necesidad estaba, la necesidad de seguridad.
+[774.9s → 779.6s] Lo único que hizo el marketing luego es comenzar a posicionar eso que uno estaba esperando
+[779.6s → 787.2s] de novedoso, de diferente, de diferenciador en el contexto del marketing como tal.
+[787.9s → 789.2s] ¿Cuál es un ejemplo de problema?
+[789.4s → 794.0s] Por ejemplo, me toma 45 minutos encontrar un taxi seguro en la calle cuando llueve
+[794.0s → 796.1s] y a veces me cobran tarifas arbitrares.
+[796.2s → 797.7s] Eso podríamos decir que es el problema.
+[798.2s → 801.1s] Un problema de justamente movilidad.
+[801.6s → 802.5s] ¿Cuál es la necesidad?
+[802.9s → 807.6s] Sentirse seguro, optimizar el tiempo y tener una previsibilidad financiera.
+[807.6s → 813.9s] Saber cuánto vas a pagar posiblemente por ese servicio de transporte de un punto A a un punto B.
+[814.7s → 820.5s] Entonces bueno, con esto que hemos hablado, espero les quede bastante claro lo que es un problema y una necesidad.
+[821.3s → 822.6s] ¿Y esto por qué les comento?
+[822.6s → 827.4s] Porque muchas veces cuando emprendemos podemos hacerlo desde algunas, desde las dos.
+[827.9s → 832.1s] Podemos o encontrar una necesidad o encontrar un problema y comenzar a generar soluciones.
+[832.8s → 836.9s] Y claro, lo mejor que podríamos hacer en un punto sí es encontrar un problema
+[836.9s → 842.8s] y ir recolectando información, hablando con el cliente, lo que hablamos en la anterior clase,
+[843.3s → 846.6s] de empatizar para descubrir esas necesidades ocultas.
+[847.0s → 848.4s] ¿Cómo descubrimos las necesidades?
+[848.5s → 852.0s] ¿Cómo descubrimos que quería sentirse seguro, que quería optimizar el tiempo
+[852.0s → 854.6s] y cómo obtener una previsibilidad del pago?
+[855.0s → 856.4s] Es justamente a través de hablar.
+[856.8s → 858.0s] Este es el problema macro.
+[858.5s → 861.2s] Este por decir es el problema macro que podemos encontrar.
+[861.2s → 866.7s] Pero ya cuando vamos hacia la necesidad para generar posibles soluciones y conocer mejor al cliente,
+[867.1s → 868.3s] tenemos que hablar bastante.
+[868.4s → 872.0s] Y para eso desarrollamos justamente los procesos de empatía.
+[872.7s → 877.8s] Y aquí la otra pregunta que les hago, y en este punto que hemos visto que es problema y que es necesidad,
+[878.4s → 883.4s] ¿qué tan importante creen que es justamente conocer realmente al usuario?
+[883.4s → 888.2s] Que habíamos hablado de la clase anterior, cuando ya vemos el problema y la necesidad.
+[888.3s → 893.8s] ¿Qué tan importante es conocer al usuario si yo quiero justamente desarrollar un emprendimiento, un negocio?
+[904.7s → 912.7s] Es necesario porque así conocemos cuál es la necesidad o el problema que tiene el usuario.
+[914.2s → 914.5s] Ya.
+[915.1s → 915.8s] Gracias, Brian.
+[916.0s → 917.0s] Vamos con alguien más.
+[917.1s → 920.3s] Vamos por ahí con Jessica Cristina.
+[920.3s → 928.0s] Buenas noches, estimados Sandy y compañeros.
+[928.7s → 936.3s] Para mí parece, o sea, mi criterio es súper importante porque vemos la necesidad y, como dijo usted,
+[936.4s → 939.1s] para resolver un problema de la necesidad de la gente.
+[940.2s → 947.5s] Podemos hacer que nuestro negocio, o sea, nuestro negocio funcione de la mejor manera.
+[949.2s → 950.3s] Muchas gracias, Jessica.
+[950.3s → 954.3s] Vamos con Lady Aro.
+[962.6s → 966.3s] Si no puede Lady, vamos con Alejandro Vargas.
+[973.4s → 977.6s] Y si no puede Alejandro, vamos con una siguiente persona, Don Steven.
+[982.3s → 984.8s] Vamos, ¿quién de los seres prende primero el micrófono?
+[986.9s → 987.7s] Buenas noches, Lady.
+[987.8s → 988.4s] Sí, sí, sí, va.
+[991.0s → 994.4s] Sí, coméntame, Lady, ¿qué tan importante es conocer realmente al usuario?
+[995.0s → 997.3s] Una vez que hemos hablado del problema y de la necesidad.
+[997.3s → 1005.3s] Ya, es que conocer al usuario es muy importante porque al conocer al usuario nosotros sabemos qué necesidades tiene.
+[1005.8s → 1015.6s] Digamos que yo tengo un local, digamos, de ropa y, digamos, una persona es gordita y me pide una talla XL, no, una talla 2XL y no tenemos.
+[1015.8s → 1017.6s] Entonces, esa es la necesidad del cliente.
+[1018.1s → 1022.5s] Que nosotros traemos eso, entonces él se va a sentir satisfecho con lo que nosotros traemos.
+[1022.9s → 1025.0s] Entonces, esa puede ser una necesidad.
+[1025.0s → 1027.6s] Gracias, Lady.
+[1027.7s → 1029.7s] Interesante el ejemplo que justamente colocas.
+[1030.4s → 1033.0s] Y bueno, en eso sí hay algo que convenga.
+[1033.9s → 1037.7s] O digamos, también ahorita es ropa, digamos, ropa de, digamos, yo que sé, un outfit.
+[1038.1s → 1039.2s] Un outfit que está en tendencia.
+[1039.8s → 1043.9s] Y, digamos, viene una cliente y dice, yo quiero, digamos, un pantalón este y tiene.
+[1044.0s → 1046.4s] Entonces, nosotros ya sabemos lo que quiere para poder traer.
+[1046.7s → 1050.4s] Entonces, esa sería la, un cómo conocer al cliente realmente.
+[1050.4s → 1053.4s] Gracias, Lady.
+[1053.4s → 1063.6s] Bueno, ahí y algo que le recuerdo de estas dos semanas que llevamos, sobre todo la dos y la tres anteriores, que hemos hablado mucho del usuario.
+[1064.1s → 1068.3s] Entonces, desde el punto, y esto sí dejarles bien claro.
+[1068.3s → 1085.4s] El punto importante al momento que uno emprende es conocer realmente al cliente, conocer justamente, acercarse al cliente, utilizar estas herramientas para, para justamente conocer necesidades ocultas, para adentrarse más en el pensamiento del cliente, en lo que siente, en lo que oye, en lo que ve.
+[1085.4s → 1091.0s] Entonces, tenemos que estar muy claros justamente en cuál es el punto de partida.
+[1091.5s → 1092.8s] No emprender lo que hablábamos.
+[1092.9s → 1097.6s] Cuando veamos los tipos de emprendimiento, yo les decía, hay tipos de emprendimiento por necesidad o por oportunidad.
+[1098.4s → 1104.3s] No emprender desde la necesidad de necesito dinero, necesito dar de comer a mi familia, sino emprender desde la oportunidad.
+[1104.9s → 1109.3s] Necesito encontrar un problema, necesito encontrar una solución, una necesidad.
+[1109.5s → 1113.0s] Y ahí sí comenzar a ver qué solución puedo dar a eso.
+[1113.0s → 1117.6s] Entonces, recuerden eso, que es parte justamente importante de lo que hemos visto.
+[1118.1s → 1126.0s] Ernesto nos comenta en el Chávez Medular, es el centro del avance para el éxito, es estratégico para innovar o mejorar el servicio o producto.
+[1126.3s → 1128.6s] Con todo eso se llega a soluciones modelos.
+[1129.3s → 1130.1s] Gracias, Ernesto.
+[1130.3s → 1132.6s] Bastante bien la respuesta.
+[1133.1s → 1141.4s] Entonces, aquí entendamos justamente que este conocimiento que vamos teniendo del usuario nos permite justamente generar innovación.
+[1141.4s → 1147.6s] Y aquí entendamos que la innovación no comienza con una idea brillante, sino con una comprensión profunda de las personas y su entorno.
+[1148.2s → 1156.0s] No es que el día de mañana yo soy muy innovador porque tuve una idea brillante, porque muchas veces cuando hablamos de innovación, eso queda más en un invento.
+[1156.3s → 1159.5s] Si yo tengo una idea brillante, puedo tener mil inventos.
+[1159.5s → 1168.7s] Como en algún momento, si uno se pone a revisar los dibujos que generó, las maquetas que generó Leonardo da Vinci, todas eran brillantes.
+[1168.9s → 1171.1s] Eran muy brillantes, pero quedaron en inventos.
+[1171.6s → 1172.8s] ¿Y por qué quedaron en inventos?
+[1172.8s → 1176.8s] Porque no se pudo profundizar en la comprensión de las personas y del entorno.
+[1176.8s → 1186.8s] ¿Cómo esos objetos inanimados, cómo esos bocetos, esas maquetas iban a ser real o cómo iban a dar una mejor calidad de vida a las personas, mejorar su tiempo?
+[1187.2s → 1190.0s] Entonces, ahí es cuando se genera realmente una innovación.
+[1190.4s → 1193.6s] ¿A través de qué? De la comprensión profunda de las personas y del entorno.
+[1194.0s → 1199.6s] Si no lo que estamos haciendo, si tenemos muy buenas ideas y son brillantes, estamos generando inventos.
+[1199.6s → 1206.3s] Y no queremos inventos, queremos generar justamente negocios en esta asignatura.
+[1207.1s → 1214.7s] Entonces, dicho eso, y una vez que hemos entendido cuál es el problema y cuál es la necesidad, vamos a adentrarnos en lo que es Design Thinking.
+[1215.3s → 1222.7s] Entonces, primero, bueno, para entender lo que es Design Thinking debemos basarnos un poco al contexto histórico de esta metodología.
+[1222.7s → 1234.2s] Entonces, primero entendemos que es una metodología que tiene como centro justamente el desarrollo a partir de la información que dan los usuarios o las personas para resolver problemas mediante creatividad.
+[1234.7s → 1239.4s] ¿Dónde nace la metodología? Y ahí hay que dar un punto de énfasis.
+[1239.9s → 1246.1s] La metodología, cuando uno lo busca, muchas veces hoy por hoy en el Internet, dice que se desarrolló en la Universidad de Stanford.
+[1246.1s → 1255.3s] Y es verdad, porque ahí fue donde ya fue la aplicación metodológica, pero en sí comenzó su desarrollo en la antigua escuela de diseño llamada la Bauhaus,
+[1255.7s → 1260.7s] que era sobre todo un enfoque en el diseño centrado en el cliente y en la forma de pensar de los diseñadores.
+[1261.3s → 1267.6s] Hasta ese momento, la Bauhaus y toda la revolución industrial en Alemania generaba productos industriales.
+[1267.9s → 1273.9s] ¿Cuál es un producto industrial? Supongamos, estas mesitas que existían antes en las escuelas,
+[1273.9s → 1281.7s] estos taburetes metálicos que eran espaldas a 90 grados, la parte para sentarse que formaba prácticamente una regla,
+[1282.2s → 1285.8s] y uno después de estar dos horas en esas sillas ya acababa sin espalda.
+[1286.3s → 1290.4s] Ese era el famoso diseño industrial de las escuelas de diseños de esa época.
+[1291.1s → 1295.7s] ¿Eran qué? Para que soporten, para que justamente rindan más en el tiempo,
+[1295.7s → 1302.6s] pero se fueron dando cuenta que esos productos eran generados sin un enfoque real en el cliente.
+[1302.6s → 1306.8s] Esos productos eran generados porque había materia prima, había que hacer sillas,
+[1307.4s → 1313.2s] se tenían niños en escuela, entonces hagamos esas sillas que resistan porque los niños van a dañar.
+[1314.3s → 1317.5s] Esta escuela de diseño, lo que comienza a contemplar en sus aulas,
+[1318.0s → 1322.4s] justamente es colocar en el centro al cliente, en el desarrollo,
+[1322.9s → 1326.8s] justamente a partir de procesos de investigación del cliente,
+[1326.8s → 1329.9s] de empatizar con el cliente, descubrir necesidades,
+[1330.6s → 1335.0s] y ir adentrándose justamente en ciertos aspectos técnicos del cliente.
+[1335.4s → 1339.1s] Entonces supongamos, si un cliente te decía que se sentía incómodo en esa silla,
+[1339.6s → 1342.0s] tú tenías que revisar temas ergonómicos,
+[1342.5s → 1347.0s] y ahí ibas mejorando el producto en torno a las apreciaciones que tenía el cliente,
+[1347.1s → 1349.9s] entonces el cliente ya se iba sentando e iba cambiando.
+[1349.9s → 1354.2s] Pero, como tal, justamente, una vez que les doy este punto histórico,
+[1354.7s → 1360.4s] luego da el salto al tema de universidades a través de la Universidad de Stanford,
+[1360.5s → 1363.6s] que lo que hace es popularizar la metodología,
+[1363.8s → 1366.2s] y a darle primero un nombre,
+[1366.7s → 1369.6s] y lo segundo ya es conceptualizarle cuáles son las fases,
+[1369.8s → 1370.6s] cuál es el desarrollo,
+[1371.2s → 1374.2s] y a partir de ahí toma popularidad a nivel mundial.
+[1374.2s → 1379.6s] ¿Cuáles son características justamente principales que tiene esta metodología?
+[1380.0s → 1381.9s] Hablamos que es centrada en el usuario,
+[1382.5s → 1383.3s] es iterativa,
+[1383.4s → 1384.4s] ¿qué quiere decir iterativa?
+[1384.5s → 1386.1s] Que se puede volver atrás y mejorar.
+[1386.7s → 1387.7s] Supongamos, tiene fases,
+[1387.8s → 1390.2s] si en alguna fase algo resulta mal,
+[1390.2s → 1391.9s] yo puedo volver a la fase anterior,
+[1392.3s → 1395.1s] y descubrir que estaba haciendo mal y volver a hacer el proceso.
+[1395.7s → 1396.6s] Es colaborativa,
+[1396.8s → 1398.6s] que quiere decir que en un inicio,
+[1399.1s → 1401.0s] no es que trabajaba un solo diseñador,
+[1401.2s → 1403.2s] en las escuelas justamente de diseño,
+[1403.2s → 1405.3s] o en Stanford que se utilizaba,
+[1405.7s → 1407.1s] sino que se trabajaba en grupos.
+[1407.6s → 1408.5s] Entonces, por decirlo así,
+[1408.6s → 1412.3s] le entregaban a Brian, Jessica, Ernesto y Laura,
+[1412.8s → 1415.8s] entonces a partir de la búsqueda de un problema,
+[1415.9s → 1419.5s] ustedes cuatro tenían que desarrollar un producto o un servicio.
+[1419.7s → 1422.4s] Entonces, se habla mucho de que esta metodología
+[1422.4s → 1425.2s] fomenta la colaboración en equipos.
+[1425.8s → 1429.4s] Lo interesante es que es aún mejor cuando son equipos multidisciplinarios,
+[1430.5s → 1431.2s] que se enfoque esto.
+[1431.2s → 1435.0s] Entonces, supongamos, el día de mañana queremos resolver el problema de DCI,
+[1435.1s → 1436.5s] vamos a utilizar el Design Thinking,
+[1437.2s → 1439.2s] entonces vamos a estudiar, vamos a utilizar,
+[1439.4s → 1442.1s] vamos a convocar a un estudiante de medicina,
+[1442.6s → 1444.0s] un estudiante de ingeniería,
+[1444.2s → 1445.5s] un estudiante de administración,
+[1445.6s → 1446.5s] un estudiante de derecho,
+[1446.5s → 1448.2s] y un estudiante de educación.
+[1448.5s → 1452.5s] Al final, ese proceso multidisciplinario y de colaboración
+[1452.5s → 1454.8s] nos da un mejor producto.
+[1455.0s → 1455.1s] ¿Por qué?
+[1455.2s → 1457.4s] Porque la visión es diferente
+[1457.4s → 1461.6s] y en los procesos de ideación que justamente tiene esta metodología
+[1461.6s → 1464.0s] tendremos mayor diversidad de ideas.
+[1464.6s → 1466.8s] ¿A qué se aplica el Design Thinking hoy por hoy?
+[1467.2s → 1469.0s] Hablamos de desarrollo de productos,
+[1469.5s → 1470.5s] desarrollo de servicios,
+[1471.1s → 1472.4s] desarrollo de procesos,
+[1472.8s → 1474.9s] y justamente el campo del emprendimiento,
+[1475.0s → 1476.5s] que es lo que nos concierne a nosotros.
+[1477.4s → 1478.7s] Entonces, claro, cuando decimos,
+[1478.8s → 1482.9s] supongamos, tenemos un emprendimiento que está ya en marcha,
+[1483.5s → 1485.2s] ¿puedo utilizar Design Thinking para qué?
+[1485.3s → 1486.6s] Para sacar un nuevo producto.
+[1487.3s → 1489.7s] Supongamos, voy a iniciar un emprendimiento
+[1489.7s → 1491.5s] para hacer el Design Thinking
+[1491.5s → 1494.5s] para averiguar justamente esas necesidades,
+[1495.0s → 1496.9s] plantear el problema y desarrollar un producto
+[1496.9s → 1498.0s] o un servicio innovador.
+[1498.6s → 1500.3s] El Design Thinking como tal ayuda a crear,
+[1500.4s → 1502.2s] como les decía, soluciones deseables,
+[1502.3s → 1503.2s] viables y factibles.
+[1504.0s → 1506.0s] Deseables teniendo en cuenta que el cliente,
+[1506.0s → 1507.3s] el ADC, viable,
+[1507.6s → 1512.6s] que haya justamente una viabilidad más que todo económica,
+[1513.4s → 1519.1s] que son las características que el cliente,
+[1519.1s → 1521.6s] está justamente solicitando.
+[1525.4s → 1539.7s] Y no sé si le colocaste bien el nombre
+[1539.7s → 1541.2s] o se te fue una U, Ernesto.
+[1548.5s → 1549.4s] Se fue una U, ¿verdad?
+[1554.0s → 1555.0s] Sí, se fue una U.
+[1555.5s → 1556.9s] Sí, pero más que todo,
+[1557.3s → 1559.7s] la Escuela de Diseño de la Bauhaus
+[1559.7s → 1562.6s] tuvo bastantes procesos, por decirlo así,
+[1562.8s → 1564.3s] de renovación.
+[1564.9s → 1568.0s] Primero tuvo un enfoque más que todo en la arquitectura,
+[1568.3s → 1570.2s] o sea, nace como una escuela de arquitectura,
+[1570.3s → 1571.8s] luego pasa a una escuela justamente
+[1571.8s → 1573.4s] de arquitectura y diseño,
+[1573.5s → 1575.1s] donde se desarrollaban ya productos,
+[1575.6s → 1577.8s] y luego tuvo algunas hibridaciones que tuvo.
+[1578.0s → 1579.0s] Entonces, dentro de eso,
+[1579.5s → 1581.7s] también se utilizó bastante la teoría del método,
+[1582.3s → 1584.6s] justamente para desarrollar productos,
+[1584.9s → 1586.3s] para desarrollar justamente arquitectura
+[1587.2s → 1587.8s] y todo eso,
+[1588.2s → 1590.9s] y todo eso que tiene que ver con las artes,
+[1590.9s → 1591.4s] sobre todo.
+[1592.0s → 1592.6s] Entonces, sí.
+[1592.6s → 1597.0s] Entonces, volviendo a lo que es el Design Thinking,
+[1597.4s → 1599.0s] cuando lo vemos al Design Thinking,
+[1599.7s → 1601.0s] tiene estos dos principios.
+[1601.4s → 1604.0s] Entonces, el Design Thinking tiene un principio de divergencia
+[1604.0s → 1605.4s] y otro de convergencia.
+[1605.8s → 1608.5s] Entendamos el de divergencia como al de crear opciones,
+[1609.0s → 1612.3s] cuando hablamos de ese pensamiento justamente más creativo,
+[1612.8s → 1615.9s] el lado más intrépido que tiene uno,
+[1615.9s → 1619.7s] mientras que el proceso de convergencia tiene que ver con escoger,
+[1620.3s → 1622.1s] con justamente ser más analítico.
+[1622.5s → 1623.8s] Cuando hablamos de divergencia,
+[1623.9s → 1624.9s] del lado de crear opciones,
+[1625.1s → 1627.0s] hablamos de abrir posibilidades,
+[1627.3s → 1628.4s] generar muchas ideas,
+[1628.9s → 1631.2s] pensar fuera de la caja y no juzgar al inicio.
+[1631.8s → 1633.7s] Este tipo de pensamiento divergente,
+[1633.8s → 1634.5s] lastimosamente,
+[1634.7s → 1635.9s] entre más pasan los años,
+[1636.4s → 1638.0s] según estudios de varios psicólogos,
+[1638.5s → 1639.9s] más complejo se nos envuelve.
+[1639.9s → 1642.8s] Entonces, cuando uno le pregunta a una persona,
+[1643.0s → 1645.3s] entre más mayores y entre más sesgos tiene,
+[1645.9s → 1647.8s] ¿qué más cosas pueden ser una taza?
+[1648.0s → 1649.3s] Supongamos, el día de mañana les digo,
+[1649.4s → 1650.3s] ¿qué puede ser una taza?
+[1650.8s → 1651.6s] Por ahí me dicen,
+[1651.7s → 1654.7s] alguien una taza puede ser un recipiente para poner esferos,
+[1654.8s → 1661.2s] una maceta y un portapelotito,
+[1661.3s → 1661.8s] llamémoslo así.
+[1662.2s → 1664.1s] Entonces, si nos vamos hacia ese punto,
+[1664.4s → 1665.6s] todas las ideas son muy obvias.
+[1666.3s → 1667.3s] Pero si yo le digo, en cambio,
+[1667.3s → 1669.5s] a un niño que tiene el pensamiento de divergencia
+[1669.5s → 1672.0s] mucho más amplio y mucho menos sesgos,
+[1672.2s → 1673.2s] ¿qué puede ser una taza?
+[1673.3s → 1673.9s] Y el niño va a decir,
+[1673.9s → 1675.1s] una taza puede ser un carro,
+[1675.6s → 1676.5s] puede ser una tele,
+[1677.1s → 1679.4s] puede ser, supongamos,
+[1679.6s → 1684.3s] un lanzapelotas,
+[1684.7s → 1687.2s] y así sucesivamente me va dando bastantes opciones,
+[1687.6s → 1689.3s] es porque el niño tiene menos sesgos
+[1689.3s → 1692.6s] y el niño puede pensar con mayor facilidad fuera de la caja.
+[1693.1s → 1695.7s] Cuando vamos pasando la vida justamente con los sesgos
+[1695.7s → 1696.4s] que se nos da,
+[1696.4s → 1699.4s] con muchas veces los nos que se nos presentan,
+[1700.1s → 1701.2s] entonces esos nos que te dicen,
+[1701.3s → 1702.2s] no, es que esto no es posible,
+[1702.7s → 1704.7s] muchas veces vamos aplicando sesgos.
+[1705.2s → 1707.3s] Entonces hay que trabajar cuando utilizamos design thinking
+[1707.3s → 1708.8s] mucho en la parte creativa,
+[1709.4s → 1712.0s] mucho en el tema de divergencia y de pensar fuera de la caja.
+[1712.5s → 1713.5s] La convergencia, en cambio,
+[1713.6s → 1715.2s] tiene que ver con escoger opciones.
+[1715.8s → 1717.5s] Hay ya el lado más analítico,
+[1717.7s → 1719.0s] el lado más de seleccionar,
+[1719.5s → 1721.2s] priorizar ideas con mayor valor,
+[1721.3s → 1723.0s] enfocarse en soluciones reales.
+[1723.4s → 1724.9s] Entonces estos dos principios
+[1724.9s → 1727.1s] justamente tiene el design thinking.
+[1727.7s → 1729.2s] Entonces, en este punto,
+[1729.4s → 1731.3s] ¿cómo se ve el design thinking hoy por hoy?
+[1731.7s → 1733.0s] Entonces se ve de esta manera.
+[1733.7s → 1734.2s] Entonces recuerden,
+[1734.2s → 1735.3s] primero recuerden esta imagen,
+[1735.5s → 1736.8s] divergencia y convergencia.
+[1737.3s → 1739.2s] Entonces aquí tenemos fase 1,
+[1739.3s → 1740.6s] empatía, divergencia,
+[1741.0s → 1742.3s] definición, convergencia,
+[1742.8s → 1743.9s] ideación, divergencia,
+[1744.5s → 1746.2s] prototipo, pago, convergencia,
+[1746.4s → 1748.1s] y testeo, aún más convergencia.
+[1748.7s → 1749.9s] ¿Por qué les muestro esta imagen?
+[1749.9s → 1752.2s] Para que justamente entiendan estos procesos
+[1752.2s → 1753.7s] de divergencia y convergencia,
+[1754.2s → 1756.1s] donde debemos ser más creativos,
+[1756.5s → 1758.1s] fase de empatía y fase de ideación,
+[1758.7s → 1760.5s] donde debemos ser más analíticos,
+[1760.7s → 1762.5s] definición, prototipado y testeo.
+[1763.2s → 1764.4s] Entonces eso justamente
+[1764.4s → 1766.7s] para que lo tomen en cuenta.
+[1767.2s → 1768.3s] Entonces muchas veces ustedes también
+[1768.3s → 1769.8s] cuando busquen design thinking
+[1769.8s → 1771.7s] les puede salir design thinking
+[1771.7s → 1772.6s] doble diamante,
+[1773.2s → 1774.9s] design thinking escuelas de diseño,
+[1775.0s → 1776.1s] design thinking circular.
+[1776.7s → 1777.5s] Entonces hoy por hoy
+[1777.5s → 1779.4s] hay bastantes derivaciones
+[1779.4s → 1780.8s] de lo que es el design thinking,
+[1780.8s → 1782.4s] pero al final lo vemos igual.
+[1782.8s → 1784.2s] Al final las fases no han cambiado.
+[1784.4s → 1785.2s] Fase de empatía,
+[1785.6s → 1785.8s] 1,
+[1786.2s → 1787.5s] luego una fase de definición,
+[1788.0s → 1789.2s] luego una fase de dirección,
+[1789.4s → 1790.7s] luego una fase de prototipado
+[1790.7s → 1791.7s] y fase de testeo.
+[1792.6s → 1793.0s] Entonces,
+[1793.7s → 1794.2s] dicho esto,
+[1794.8s → 1796.4s] vamos a ir hablando un poco
+[1796.4s → 1797.5s] de lo que es cada fase.
+[1798.2s → 1799.5s] Cuando hablamos de empatizar,
+[1799.7s → 1801.1s] justamente que es la fase 1
+[1801.1s → 1802.0s] de divergencia,
+[1802.5s → 1804.2s] hablamos de conocer al usuario,
+[1804.5s → 1805.5s] observar el entorno,
+[1805.7s → 1806.5s] entender necesidades,
+[1806.7s → 1808.1s] emociones y comportamientos,
+[1808.1s → 1810.0s] y aquí la pregunta clave es
+[1810.0s → 1812.1s] ¿cuál es el problema o necesidad real?
+[1812.9s → 1814.4s] Entonces aquí sí necesitamos,
+[1814.5s → 1814.7s] en verdad,
+[1815.1s → 1816.8s] si tuviéramos que definir
+[1816.8s → 1819.0s] información que vamos a sacar de aquí,
+[1819.5s → 1821.2s] si es la mayor cantidad de problemas
+[1821.2s → 1822.3s] o necesidades reales
+[1822.3s → 1823.2s] que tenga el usuario.
+[1824.1s → 1826.0s] Entonces por eso les hablaba muchísimo
+[1826.0s → 1827.5s] de que hay que tener
+[1827.5s → 1828.9s] muy en cuenta
+[1828.9s → 1830.3s] el tema de empatía
+[1830.3s → 1831.9s] para desarrollar un emprendimiento
+[1831.9s → 1832.9s] y aún más para utilizar
+[1832.9s → 1833.9s] esta metodología.
+[1833.9s → 1835.4s] Lo importante aquí
+[1835.4s → 1837.0s] del proceso de empatizar,
+[1837.5s → 1838.5s] como ya hablamos,
+[1838.6s → 1839.6s] justamente es un proceso
+[1839.6s → 1840.5s] de divergencia,
+[1841.1s → 1842.0s] debo recolectar
+[1842.0s → 1843.1s] la mayor cantidad
+[1843.1s → 1844.3s] de información posible.
+[1845.0s → 1845.6s] Información,
+[1845.7s → 1846.3s] supongamos,
+[1846.5s → 1847.2s] del cliente,
+[1847.6s → 1848.5s] información mía
+[1848.5s → 1850.7s] recolectada en redes,
+[1851.1s → 1851.7s] en investigación,
+[1852.2s → 1852.8s] en papers,
+[1853.4s → 1854.8s] información adicional.
+[1855.4s → 1855.8s] Entonces aquí,
+[1855.9s → 1856.5s] por decirlo así,
+[1856.6s → 1857.2s] debo tener
+[1857.2s → 1858.1s] la mayor cantidad
+[1858.1s → 1858.7s] de información
+[1858.7s → 1860.1s] porque es un proceso
+[1860.1s → 1860.9s] de divergencia
+[1860.9s → 1862.2s] y debo muchas veces
+[1862.2s → 1863.4s] pensar fuera de la caja.
+[1863.4s → 1865.1s] No ir hacia lo convencional.
+[1865.7s → 1866.6s] Luego cuando paso
+[1866.6s → 1867.5s] a la siguiente fase
+[1867.5s → 1868.4s] de convergencia,
+[1868.4s → 1869.0s] de definir,
+[1869.4s → 1869.9s] aquí en cambio
+[1869.9s → 1870.8s] debo seleccionar,
+[1870.9s → 1871.1s] bueno,
+[1871.2s → 1873.0s] cuál es el problema prioritario
+[1873.0s → 1874.5s] y evaluar justamente
+[1874.5s → 1875.5s] cuál es el impacto
+[1875.5s → 1876.1s] e importancia
+[1876.1s → 1877.2s] que éste puede tener.
+[1877.8s → 1878.6s] Entonces supongamos,
+[1878.7s → 1879.8s] el cliente me ha dado
+[1879.8s → 1880.7s] muchos problemas,
+[1881.3s → 1882.3s] muchas necesidades.
+[1882.8s → 1883.1s] Ahora sí,
+[1883.2s → 1884.2s] en definir debo decir,
+[1884.3s → 1884.5s] bueno,
+[1884.7s → 1885.5s] cuál de éstas
+[1885.5s → 1887.3s] tiene mayor posibilidad
+[1887.3s → 1888.2s] justamente
+[1888.2s → 1889.6s] o con la información
+[1889.6s → 1890.3s] que tengo,
+[1890.7s → 1891.5s] con el conocimiento
+[1891.5s → 1892.0s] que tengo,
+[1892.1s → 1892.7s] con la tecnología
+[1892.7s → 1893.9s] que puedo desarrollar
+[1893.9s → 1895.1s] y aquí la pregunta
+[1895.1s → 1895.6s] en cambio es
+[1895.6s → 1896.7s] por qué este problema
+[1896.7s → 1897.6s] es importante
+[1897.6s → 1898.5s] y en verdad
+[1898.5s → 1899.2s] ver si el problema
+[1899.2s → 1899.8s] es importante
+[1899.8s → 1900.6s] porque muchas veces
+[1900.6s → 1901.4s] aquí puedo decir,
+[1901.9s → 1902.0s] no,
+[1902.1s → 1902.7s] es que yo no tengo
+[1902.7s → 1903.2s] tecnología,
+[1903.4s → 1903.9s] entonces no puedo
+[1903.9s → 1904.4s] hacer esto,
+[1904.9s → 1906.1s] pero como es un ejercicio
+[1906.1s → 1906.8s] académico
+[1906.8s → 1907.9s] podríamos decir,
+[1908.0s → 1908.2s] bueno,
+[1908.4s → 1909.3s] más allá de la tecnología
+[1909.3s → 1910.4s] lo voy a intentar,
+[1911.3s → 1911.7s] pero claro,
+[1911.9s → 1912.9s] aquí cuando ya llevamos
+[1912.9s → 1914.1s] esto a un proceso
+[1914.1s → 1915.5s] más que todo
+[1915.5s → 1916.4s] real
+[1916.4s → 1918.0s] dentro de una industria,
+[1918.1s → 1918.9s] si es que utilizaríamos
+[1918.9s → 1919.8s] la metodología
+[1919.8s → 1920.7s] o dentro
+[1920.7s → 1921.6s] de un emprendimiento
+[1921.6s → 1922.3s] tendríamos que
+[1922.3s → 1923.6s] ponernos a pensar
+[1923.6s → 1924.2s] en el proceso
+[1924.2s → 1924.9s] de definir
+[1924.9s → 1926.8s] cuáles son las capacidades
+[1926.8s → 1927.5s] técnicas,
+[1927.7s → 1928.6s] tecnológicas
+[1928.6s → 1929.3s] y económicas
+[1929.3s → 1930.3s] que tiene mi negocio,
+[1931.5s → 1932.0s] para el tema
+[1932.0s → 1933.5s] del portafolio,
+[1933.7s → 1934.6s] el tema de definir
+[1934.6s → 1935.2s] más que todo
+[1935.2s → 1935.8s] es que ustedes
+[1935.8s → 1937.2s] vean si el problema
+[1937.2s → 1938.0s] es importante,
+[1938.5s → 1938.9s] que no,
+[1939.0s → 1939.3s] no,
+[1939.5s → 1940.1s] por decirlo así,
+[1940.4s → 1942.0s] no escojan
+[1942.0s → 1942.6s] una opción
+[1942.6s → 1943.5s] porque ustedes dicen,
+[1943.6s → 1943.7s] no,
+[1943.7s → 1944.6s] es que esto es muy caro,
+[1944.8s → 1944.9s] no,
+[1945.5s → 1946.1s] hay que escoger
+[1946.1s → 1946.7s] una opción
+[1946.7s → 1947.6s] que más que todo
+[1947.6s → 1948.4s] resuelva un problema
+[1948.4s → 1949.5s] porque queremos
+[1949.5s → 1950.7s] justamente desarrollar
+[1950.7s → 1951.6s] algo innovador
+[1951.6s → 1952.7s] desde el punto
+[1952.7s → 1953.7s] de vista académico,
+[1954.2s → 1954.9s] luego en la idea
+[1954.9s → 1955.8s] viene otra vez
+[1955.8s → 1956.3s] un proceso
+[1956.3s → 1957.2s] de divergencia
+[1957.2s → 1958.0s] y ahí es,
+[1958.1s → 1959.6s] una vez que tengo
+[1959.6s → 1960.6s] el problema claro,
+[1961.4s → 1962.0s] en el proceso
+[1962.0s → 1962.5s] de ideación
+[1962.5s → 1963.4s] comienzo a generar
+[1963.4s → 1964.3s] la mayor cantidad
+[1964.3s → 1965.0s] de ideas
+[1965.0s → 1966.6s] justamente creativas
+[1966.6s → 1967.7s] de posibles soluciones
+[1967.7s → 1968.8s] y que utilizo
+[1968.8s → 1969.3s] para aquí
+[1969.3s → 1969.7s] justamente
+[1969.7s → 1971.0s] procesos de lluvias
+[1971.0s → 1971.5s] de ideas
+[1971.5s → 1972.6s] o procesos
+[1972.6s → 1973.3s] de pensamiento
+[1973.3s → 1973.8s] lateral
+[1973.8s → 1975.4s] o herramientas
+[1975.4s → 1976.8s] como algunas
+[1976.8s → 1977.8s] que ya vamos
+[1977.8s → 1978.7s] a ver más adelante
+[1978.7s → 1980.0s] pero justamente
+[1980.0s → 1980.4s] aquí
+[1980.4s → 1981.5s] el proceso
+[1981.5s → 1982.1s] vuelve a ser
+[1982.1s → 1982.9s] de divergencia
+[1982.9s → 1984.3s] vuelve a estructurarse
+[1984.3s → 1985.2s] en la mayor cantidad
+[1985.2s → 1986.4s] como les decía
+[1986.4s → 1987.5s] aquí más que cantidad
+[1987.5s → 1988.4s] es diversidad
+[1988.4s → 1989.7s] y aquí la pregunta
+[1989.7s → 1990.2s] clave es
+[1990.2s → 1990.8s] cómo podemos
+[1990.8s → 1991.8s] resolver el problema
+[1991.8s → 1993.1s] es pregúntanos
+[1993.1s → 1993.8s] cómo podemos
+[1993.8s → 1994.7s] resolver el problema
+[1994.7s → 1996.0s] y no hay nada
+[1996.0s → 1996.6s] imposible
+[1996.6s → 1997.6s] o sea no juzgar
+[1997.6s → 1999.3s] no emitir un juicio
+[1999.3s → 2000.1s] no decir
+[2000.1s → 2000.9s] no esto no es posible
+[2000.9s → 2001.5s] porque en la rata
+[2001.5s → 2002.3s] que nosotros decimos
+[2002.3s → 2003.2s] esto no es posible
+[2003.2s → 2004.4s] estamos perdiendo
+[2004.4s → 2004.8s] una idea
+[2004.8s → 2005.9s] que puede ser valiosa
+[2005.9s → 2006.8s] luego
+[2006.8s → 2009.0s] pasamos a un proceso
+[2009.0s → 2009.9s] de convergencia
+[2009.9s → 2010.9s] que tiene que
+[2010.9s → 2011.6s] convertir
+[2011.6s → 2012.8s] con el tema
+[2012.8s → 2013.5s] de convertir
+[2013.5s → 2013.8s] una idea
+[2013.8s → 2014.7s] en algo tangible
+[2014.7s → 2015.7s] entonces hablamos
+[2015.7s → 2016.2s] de realizar
+[2016.2s → 2016.9s] bocetos
+[2016.9s → 2018.0s] maquetas
+[2018.0s → 2018.9s] modelos
+[2018.9s → 2020.4s] diseños básicos
+[2020.4s → 2020.9s] hoy por hoy
+[2020.9s → 2021.4s] en el tema
+[2021.4s → 2022.3s] del prototipado
+[2022.3s → 2023.2s] utilizamos ya
+[2023.2s → 2025.0s] pero recuerden
+[2025.0s → 2025.5s] no siempre
+[2025.5s → 2026.6s] los prototipos
+[2026.6s → 2028.2s] fueron tecnológicos
+[2028.2s → 2029.4s] hace algunos años
+[2029.4s → 2029.9s] cuando hablamos
+[2029.9s → 2030.6s] de prototipos
+[2030.6s → 2031.1s] hablábamos
+[2031.1s → 2032.2s] de un dibujo
+[2032.2s → 2033.2s] de una maqueta
+[2033.2s → 2034.4s] de un render
+[2034.4s → 2035.0s] entonces
+[2035.0s → 2036.1s] no siempre
+[2036.1s → 2036.9s] tuvieron que ser
+[2036.9s → 2038.4s] súper tecnológicos
+[2038.4s → 2039.2s] y con apoyo
+[2039.2s → 2039.6s] de la IA
+[2039.6s → 2040.5s] con la IA
+[2040.5s → 2041.0s] si tenemos
+[2041.0s → 2041.9s] un apoyo grande
+[2041.9s → 2042.7s] pero recuerden
+[2042.7s → 2043.3s] muchas veces
+[2043.3s → 2044.2s] el prototipo
+[2044.2s → 2045.0s] la imagen visual
+[2045.0s → 2045.7s] que te puede
+[2045.7s → 2046.5s] generar la IA
+[2046.5s → 2047.3s] al final
+[2047.3s → 2048.0s] no es
+[2048.0s → 2049.2s] referencial
+[2049.2s → 2050.1s] a lo que realmente
+[2050.1s → 2051.1s] vas a generar
+[2051.1s → 2051.7s] entonces eso
+[2051.7s → 2052.1s] hay que tener
+[2052.1s → 2052.8s] mucho cuidado
+[2052.8s → 2053.7s] y aquí
+[2053.7s → 2054.6s] la pregunta clave
+[2054.6s → 2055.6s] es cómo se vería
+[2055.6s → 2056.3s] la solución
+[2056.3s → 2057.4s] o sea hay que preguntar
+[2057.4s → 2057.7s] bueno
+[2057.7s → 2058.4s] cómo se va a ver
+[2058.4s → 2059.1s] la solución
+[2059.1s → 2060.8s] aquí cuando en cambio
+[2060.8s → 2062.0s] hablamos de utilizar
+[2062.0s → 2063.0s] esta metodología
+[2063.0s → 2064.1s] en emprendimientos
+[2064.1s → 2064.8s] o industrias
+[2064.8s → 2066.3s] hablamos que en el proceso
+[2066.3s → 2067.3s] de prototipado
+[2067.3s → 2068.0s] por ejemplo
+[2068.0s → 2069.1s] si es una industria
+[2069.1s → 2070.3s] y supongamos
+[2070.3s → 2071.0s] voy a sacar
+[2071.0s → 2071.8s] una nueva
+[2071.8s → 2073.7s] motocicleta
+[2073.7s → 2075.1s] tendríamos que ir
+[2075.1s → 2075.6s] hacia
+[2075.6s → 2077.7s] el trabajo
+[2077.7s → 2078.4s] con la unidad
+[2078.4s → 2079.2s] de desarrollo
+[2079.2s → 2080.0s] con la unidad
+[2080.0s → 2080.7s] productiva
+[2080.7s → 2081.5s] justamente
+[2081.5s → 2082.3s] para ver
+[2082.3s → 2083.4s] cuál es la normativa
+[2083.4s → 2084.4s] porque claro
+[2084.4s → 2084.9s] en la idea
+[2084.9s → 2085.6s] supongamos
+[2085.6s → 2086.2s] tengo una idea
+[2086.2s → 2086.9s] súper loca
+[2086.9s → 2087.7s] de una moto
+[2087.7s → 2088.6s] casi acuática
+[2088.6s → 2090.4s] que con estas lluvias
+[2090.4s → 2090.8s] que están
+[2090.8s → 2092.7s] cayendo en Ecuador
+[2092.7s → 2094.1s] la moto aprieta
+[2094.1s → 2094.6s] un botón
+[2094.6s → 2095.1s] y la moto
+[2095.1s → 2095.8s] se convierte
+[2095.8s → 2097.3s] casi en un jet ski
+[2097.3s → 2097.7s] para
+[2097.7s → 2099.2s] para solucionar
+[2099.2s → 2099.8s] justamente
+[2099.8s → 2101.6s] las lluvias
+[2101.6s → 2102.1s] tan fuertes
+[2102.1s → 2102.7s] que están cayendo
+[2102.7s → 2103.3s] en el Ecuador
+[2103.3s → 2104.5s] pero supongamos
+[2104.5s → 2104.9s] esa idea
+[2104.9s → 2105.6s] es muy buena
+[2105.6s → 2107.1s] que justamente
+[2107.1s → 2108.1s] la motocicleta
+[2108.1s → 2108.9s] tenga esa capacidad
+[2108.9s → 2110.1s] pero en el tema
+[2110.1s → 2110.9s] del prototipo
+[2110.9s → 2111.7s] cuando pasamos
+[2111.7s → 2113.1s] hacia el desarrollo
+[2113.1s → 2113.8s] ya real
+[2113.8s → 2114.8s] puede ser
+[2114.8s → 2115.2s] que ahí
+[2115.2s → 2116.2s] por temas técnicos
+[2116.2s → 2116.8s] nos digan
+[2116.8s → 2117.3s] sabes que
+[2117.3s → 2118.0s] no es posible
+[2118.0s → 2118.5s] del todo
+[2118.5s → 2119.6s] la moto
+[2119.6s → 2119.9s] al final
+[2119.9s → 2120.6s] no puede
+[2120.6s → 2121.2s] convertirse
+[2121.2s → 2121.6s] en eso
+[2121.6s → 2122.7s] pero si podemos
+[2122.7s → 2123.6s] hacer una moto
+[2123.6s → 2124.7s] o ciertos
+[2124.7s → 2126.3s] engranajes
+[2126.3s → 2127.4s] o ciertos procesos
+[2127.4s → 2128.5s] para que la moto
+[2128.5s → 2129.2s] cuando llueva
+[2129.2s → 2130.2s] no se dañe
+[2130.2s → 2130.4s] o sea
+[2130.4s → 2131.3s] yo aprieto un botón
+[2131.3s → 2131.8s] y la moto
+[2131.8s → 2132.5s] por decirlo así
+[2132.5s → 2133.6s] se impermeabiliza
+[2133.6s → 2134.8s] y con eso
+[2134.8s → 2135.2s] la moto
+[2135.2s → 2136.0s] no se me daña
+[2136.0s → 2137.2s] más que todo
+[2137.2s → 2137.6s] entonces
+[2137.6s → 2138.6s] ahí vemos
+[2138.6s → 2139.1s] que claro
+[2139.1s → 2139.9s] de la idea
+[2139.9s → 2140.6s] que yo tenía
+[2140.6s → 2141.7s] al prototipo
+[2141.7s → 2142.4s] muchas veces
+[2142.4s → 2143.0s] hay cambios
+[2143.0s → 2144.2s] ya en la industria
+[2144.2s → 2144.7s] real
+[2144.7s → 2145.7s] pero bueno
+[2145.7s → 2146.3s] por temas
+[2146.3s → 2146.7s] justamente
+[2146.7s → 2147.5s] académicos
+[2147.5s → 2148.2s] el prototipo
+[2148.2s → 2148.9s] muchas veces
+[2148.9s → 2149.9s] la mayoría
+[2149.9s → 2150.3s] de ustedes
+[2150.3s → 2150.9s] lo suele hacer
+[2150.9s → 2151.5s] en digital
+[2151.5s → 2152.3s] usando
+[2152.3s → 2152.7s] IA
+[2152.7s → 2153.8s] usando plataformas
+[2153.8s → 2154.9s] que también
+[2154.9s → 2155.5s] es válido
+[2155.5s → 2156.5s] y por último
+[2156.5s → 2157.3s] la última fase
+[2157.3s → 2158.2s] ya es evaluar
+[2158.2s → 2159.4s] aquí es probar
+[2159.4s → 2160.6s] con museos reales
+[2160.6s → 2161.1s] recibir
+[2161.1s → 2162.4s] retroalimentación
+[2162.4s → 2163.5s] y mejorar
+[2163.5s → 2164.1s] la solución
+[2164.1s → 2164.9s] y aquí
+[2164.9s → 2165.5s] la pregunta
+[2165.5s → 2166.2s] es funciona
+[2166.2s → 2166.7s] y satisface
+[2166.7s → 2167.4s] la necesidad
+[2167.4s → 2167.8s] o sea
+[2167.8s → 2168.2s] volvemos
+[2168.2s → 2168.6s] un poco
+[2168.6s → 2169.1s] al inicio
+[2169.1s → 2169.7s] entonces
+[2169.7s → 2170.4s] yo averigüe
+[2170.4s → 2170.8s] que aquí
+[2170.8s → 2171.9s] había una necesidad
+[2171.9s → 2172.8s] ahora acá
+[2172.8s → 2173.1s] en cambio
+[2173.1s → 2173.7s] es preguntarme
+[2173.7s → 2174.1s] bueno
+[2174.1s → 2174.9s] eso que me decía
+[2174.9s → 2175.7s] el cliente
+[2175.7s → 2176.4s] esa necesidad
+[2176.4s → 2177.1s] ese problema
+[2177.1s → 2178.6s] está generando
+[2178.6s → 2179.5s] mi solución
+[2179.5s → 2180.6s] satisfacción
+[2180.6s → 2181.8s] el cliente
+[2181.8s → 2182.0s] entonces
+[2182.0s → 2182.8s] si el cliente
+[2182.8s → 2183.4s] hablaba de
+[2183.4s → 2183.9s] que estaba
+[2183.9s → 2185.0s] perdiendo tiempo
+[2185.0s → 2185.8s] supongamos
+[2185.8s → 2186.2s] en el caso
+[2186.2s → 2186.7s] de Uber
+[2186.7s → 2187.8s] que era un
+[2187.8s → 2189.1s] no tengo tiempo
+[2189.1s → 2190.3s] cuando utilicé
+[2190.3s → 2190.6s] el site
+[2190.6s → 2190.9s] thinking
+[2190.9s → 2191.4s] al final
+[2191.4s → 2192.4s] el aplicativo
+[2192.4s → 2193.0s] y las funciones
+[2193.0s → 2193.7s] que tienen
+[2193.7s → 2195.1s] están haciendo
+[2195.1s → 2195.7s] que el cliente
+[2195.7s → 2196.6s] tenga más tiempo
+[2196.6s → 2197.4s] y ahí
+[2197.4s → 2198.1s] podríamos decir
+[2198.1s → 2198.5s] que sí
+[2198.5s → 2199.3s] Uber al final
+[2199.3s → 2200.0s] sí lo logró
+[2200.0s → 2201.3s] porque ya no tenías
+[2201.3s → 2202.1s] que salir a la calle
+[2202.1s → 2203.1s] y estar 15 minutos
+[2203.1s → 2203.8s] alzando la mano
+[2203.8s → 2205.4s] sino que lo pedías
+[2205.4s → 2206.0s] del celular
+[2206.0s → 2206.9s] y cuando ya sabías
+[2206.9s → 2207.3s] que estaba
+[2207.3s → 2208.4s] a 1 o 2 minutos
+[2208.4s → 2210.1s] comenzabas a dirigirte
+[2210.1s → 2210.5s] justamente
+[2210.5s → 2211.8s] para tomar el vehículo
+[2211.8s → 2213.0s] con eso
+[2213.0s → 2213.7s] aprovechabas
+[2213.7s → 2214.3s] mucho mejor
+[2214.3s → 2214.7s] tu tiempo
+[2214.7s → 2216.0s] si tenías que quedarte
+[2216.0s → 2216.6s] haciendo un rato
+[2216.6s → 2217.6s] más algún trabajo
+[2217.6s → 2218.5s] hablando con alguien
+[2218.5s → 2220.2s] pues lo hacías
+[2220.2s → 2221.2s] en vez de estar
+[2221.2s → 2221.7s] justamente
+[2221.7s → 2223.0s] en la calle
+[2223.0s → 2224.1s] en el sol
+[2224.1s → 2225.1s] o en la lluvia
+[2225.1s → 2225.7s] entonces al final
+[2225.7s → 2226.6s] el proceso
+[2226.6s → 2227.2s] justamente
+[2227.2s → 2228.2s] cierra el ciclo
+[2228.2s → 2228.9s] de desarrollo
+[2228.9s → 2230.2s] con una evaluación
+[2230.2s → 2231.3s] pero qué pasa
+[2231.3s → 2232.7s] si tú no satisfaces
+[2232.7s → 2233.5s] la necesidad
+[2233.5s → 2234.1s] supongamos
+[2234.1s → 2234.6s] alguien me dice
+[2234.6s → 2235.4s] pero profe
+[2235.4s → 2235.8s] qué pasa
+[2235.8s → 2236.2s] si al final
+[2236.2s → 2236.9s] yo evalúo
+[2236.9s → 2237.8s] y resulta ser
+[2237.8s → 2238.3s] que el cliente
+[2238.3s → 2238.6s] me dice
+[2238.6s → 2239.1s] no sabes
+[2239.1s → 2239.5s] que esto
+[2239.5s → 2240.4s] no me satisface
+[2240.4s → 2241.9s] esto no funciona
+[2241.9s → 2242.8s] qué es lo que
+[2242.8s → 2243.6s] tengo que hacer
+[2243.6s → 2244.6s] revisar
+[2244.6s → 2245.1s] en cuál
+[2245.1s → 2245.7s] de las fases
+[2245.7s → 2246.5s] anteriores
+[2246.5s → 2248.4s] hubo alguna falla
+[2248.4s → 2249.1s] entonces voy
+[2249.1s → 2249.6s] y reviso
+[2249.6s → 2250.3s] digo veamos
+[2250.3s → 2251.2s] cuál es el problema
+[2251.2s → 2252.2s] muchas veces
+[2252.2s → 2253.1s] dónde está el problema
+[2253.1s → 2253.5s] aquí
+[2253.5s → 2254.4s] en empatizar
+[2254.4s → 2255.5s] porque tal vez
+[2255.5s → 2256.7s] no lo hice a conciencia
+[2256.7s → 2257.4s] tal vez
+[2257.4s → 2258.0s] no salí
+[2258.0s → 2259.1s] y hablé con el cliente
+[2259.1s → 2260.3s] toda la información
+[2260.3s → 2261.2s] fue recolectada
+[2261.2s → 2262.3s] a través del internet
+[2262.3s → 2264.5s] a través de leer
+[2264.5s → 2265.6s] o investigar
+[2265.6s → 2266.6s] o poner en google
+[2266.6s → 2267.9s] entonces al final
+[2267.9s → 2268.6s] no tengo
+[2268.6s → 2269.6s] ni información real
+[2269.6s → 2271.5s] por eso les decía
+[2271.5s → 2272.5s] hay que salir
+[2272.5s → 2273.1s] justamente
+[2273.1s → 2274.1s] del escritorio
+[2274.1s → 2275.2s] y conectar
+[2275.2s → 2275.9s] con el cliente
+[2275.9s → 2276.5s] si no yo al final
+[2276.5s → 2277.3s] puedo tener
+[2277.3s → 2278.7s] algo desarrollado
+[2278.7s → 2279.5s] que al final
+[2279.5s → 2280.3s] no satisface
+[2280.3s → 2280.9s] la necesidad
+[2280.9s → 2281.9s] y por ende
+[2281.9s → 2283.5s] el cliente
+[2283.5s → 2284.2s] no me va a pagar
+[2284.2s → 2285.3s] si al final
+[2285.3s → 2286.0s] ustedes crean
+[2286.0s → 2286.5s] algo que
+[2286.5s → 2287.5s] no satisface
+[2287.5s → 2288.3s] una necesidad
+[2288.3s → 2289.2s] no me da
+[2289.2s → 2289.8s] más tiempo
+[2289.8s → 2290.4s] no me da
+[2290.4s → 2291.1s] más comodidad
+[2291.1s → 2291.7s] no me da
+[2291.7s → 2292.4s] más salud
+[2292.4s → 2293.3s] yo al final
+[2293.3s → 2293.8s] voy a decir
+[2293.8s → 2294.3s] ¿saben qué?
+[2294.7s → 2295.3s] no es necesario
+[2295.3s → 2295.6s] pagar
+[2295.6s → 2296.8s] voy a seguir
+[2296.8s → 2297.7s] usando lo que
+[2297.7s → 2298.4s] uso actualmente
+[2298.4s → 2299.2s] para que voy a usar
+[2299.2s → 2299.8s] algo que no
+[2299.8s → 2300.2s] satisface
+[2300.2s → 2300.6s] en verdad
+[2300.6s → 2301.0s] un problema
+[2301.0s → 2301.6s] que tengo
+[2301.6s → 2302.5s] Ernesto
+[2302.5s → 2306.6s] doctor
+[2306.6s → 2307.3s] dos favores
+[2307.3s → 2307.8s] el primero
+[2307.8s → 2309.4s] es posible
+[2309.4s → 2310.1s] que proyecte
+[2310.1s → 2310.4s] la
+[2310.4s → 2311.7s] diapositiva
+[2311.7s → 2312.0s] anterior
+[2312.0s → 2312.5s] a esta
+[2312.5s → 2319.8s] el segundo
+[2319.8s → 2320.5s] con lo que usted
+[2320.5s → 2320.9s] está dando
+[2320.9s → 2321.7s] la explicación
+[2321.7s → 2324.6s] si te pongo
+[2324.6s → 2325.1s] el micrófono
+[2325.1s → 2325.4s] Ernesto
+[2325.4s → 2327.1s] si
+[2327.1s → 2327.8s] con lo que usted
+[2327.8s → 2328.2s] está dando
+[2328.2s → 2328.7s] la explicación
+[2328.7s → 2329.3s] se me vino
+[2329.3s → 2329.7s] a la idea
+[2329.7s → 2330.3s] una clase
+[2330.3s → 2331.2s] en contratación
+[2331.2s → 2331.8s] pública
+[2331.8s → 2333.6s] evidentemente
+[2333.6s → 2335.0s] desde la perspectiva
+[2335.0s → 2337.5s] del emprendimiento
+[2337.5s → 2338.9s] ahora
+[2338.9s → 2341.0s] los gobiernos
+[2341.0s → 2342.2s] y los multinacionales
+[2342.2s → 2342.7s] están
+[2342.7s → 2343.7s] estableciendo
+[2343.7s → 2345.7s] la posibilidad
+[2345.7s → 2346.5s] de realizar
+[2346.5s → 2347.7s] una contratación
+[2347.7s → 2348.3s] pública
+[2348.3s → 2349.2s] por tecnología
+[2349.2s → 2349.9s] e innovación
+[2349.9s → 2351.6s] donde hacen
+[2351.6s → 2352.3s] una consulta
+[2352.3s → 2352.8s] de mercado
+[2352.8s → 2353.6s] y en la consulta
+[2353.6s → 2354.1s] de mercado
+[2354.1s → 2355.0s] evidentemente
+[2355.0s → 2355.8s] se presentan
+[2355.8s → 2356.4s] varios
+[2356.4s → 2357.8s] emprendedores
+[2357.8s → 2359.2s] que plantean
+[2359.2s → 2360.3s] sus prototipos
+[2360.3s → 2360.9s] precisamente
+[2360.9s → 2361.9s] con la primera
+[2361.9s → 2362.3s] fase
+[2362.3s → 2362.7s] de lo que
+[2362.7s → 2363.4s] estaba indicando
+[2363.4s → 2363.7s] usted
+[2363.7s → 2365.0s] pero
+[2365.0s → 2365.9s] puede ser
+[2365.9s → 2366.6s] que inclusive
+[2366.6s → 2367.1s] el pago
+[2367.1s → 2367.8s] y la inversión
+[2367.8s → 2368.4s] que se da
+[2368.4s → 2369.3s] al final
+[2369.3s → 2370.1s] el Estado
+[2370.1s → 2371.1s] o el contratista
+[2371.1s → 2371.9s] no lo reclama
+[2371.9s → 2372.9s] porque
+[2372.9s → 2373.9s] el intento
+[2373.9s → 2374.7s] es hacer
+[2374.7s → 2375.4s] varias veces
+[2375.4s → 2376.2s] o una vez
+[2376.2s → 2377.1s] o muchas veces
+[2377.1s → 2378.5s] la práctica
+[2378.5s → 2379.2s] y la posibilidad
+[2379.2s → 2380.3s] de generar
+[2380.3s → 2381.3s] desde un prototipo
+[2381.3s → 2382.2s] a una solución
+[2382.2s → 2383.4s] para resolver
+[2383.4s → 2384.7s] una necesidad
+[2384.7s → 2385.4s] como política
+[2385.4s → 2385.8s] de Estado
+[2385.8s → 2387.1s] eso lo está usando
+[2387.1s → 2387.8s] mucho la comunidad
+[2387.8s → 2389.4s] económica europea
+[2389.4s → 2390.3s] y da la casualidad
+[2390.3s → 2391.2s] que incluso
+[2391.2s → 2392.4s] con que se presente
+[2392.4s → 2393.2s] el prototipo
+[2393.2s → 2394.2s] aunque no satisfaga
+[2394.2s → 2394.8s] ya cumplió
+[2394.8s → 2395.6s] la contratación
+[2395.6s → 2396.5s] pero
+[2396.5s → 2397.7s] hay la posibilidad
+[2397.7s → 2398.8s] de que vuelvan
+[2398.8s → 2399.4s] a redefinir
+[2399.4s → 2400.3s] todos los pasos
+[2400.3s → 2401.7s] hasta buscar
+[2401.7s → 2402.5s] una solución
+[2402.5s → 2403.5s] más sin embargo
+[2403.5s → 2404.1s] el pago
+[2404.1s → 2404.8s] de la contratación
+[2404.8s → 2405.9s] aunque el prototipo
+[2405.9s → 2407.1s] no sea el óptimo
+[2407.1s → 2408.3s] como para solucionar
+[2408.3s → 2409.6s] es pagado
+[2409.6s → 2412.9s] interesante
+[2412.9s → 2414.0s] el ejemplo
+[2414.0s → 2414.6s] que nos
+[2414.6s → 2415.4s] que nos trae
+[2415.4s → 2416.0s] es Ernesto
+[2416.0s → 2417.7s] y algo bueno
+[2417.7s → 2419.0s] aparte de las líneas
+[2419.0s → 2419.7s] que justamente
+[2419.7s → 2420.5s] les dije
+[2420.5s → 2420.9s] el tema
+[2420.9s → 2421.4s] de generar
+[2421.4s → 2421.9s] productos
+[2421.9s → 2422.4s] servicios
+[2422.4s → 2423.3s] procesos
+[2423.3s → 2424.1s] en temas
+[2424.1s → 2425.1s] de emprendimiento
+[2425.1s → 2425.9s] de hecho
+[2425.9s → 2426.6s] el design thinking
+[2426.6s → 2427.7s] también lo aplican
+[2427.7s → 2428.8s] en el desarrollo
+[2428.8s → 2430.3s] de políticas públicas
+[2430.3s → 2431.5s] en el desarrollo
+[2431.5s → 2432.8s] justamente público
+[2432.8s → 2434.0s] lo aplican
+[2434.0s → 2434.3s] también
+[2434.3s → 2434.7s] en el tema
+[2434.7s → 2435.7s] tecnológico
+[2435.7s → 2436.5s] entonces
+[2436.5s → 2438.1s] ha llegado
+[2438.1s → 2438.9s] a un nivel
+[2438.9s → 2440.2s] de popularidad
+[2440.2s → 2440.9s] por decir así
+[2440.9s → 2441.6s] o de uso
+[2441.6s → 2442.8s] que por hoy
+[2442.8s → 2443.7s] lo utilizan
+[2443.7s → 2444.4s] tanto en el sector
+[2444.4s → 2444.9s] público
+[2444.9s → 2445.5s] privado
+[2445.5s → 2446.2s] academia
+[2446.2s → 2446.8s] ONGs
+[2446.8s → 2447.9s] lo utilizan
+[2447.9s → 2448.3s] eso sí
+[2448.3s → 2449.2s] casi siempre
+[2449.2s → 2449.8s] hay algunas
+[2449.8s → 2450.5s] adaptaciones
+[2450.5s → 2451.0s] de acuerdo
+[2451.0s → 2452.1s] al público
+[2452.1s → 2452.9s] que va dirigido
+[2452.9s → 2453.6s] como bien lo dijo
+[2453.6s → 2454.0s] Ernesto
+[2454.0s → 2455.4s] lo interesante
+[2455.4s → 2456.4s] es que
+[2456.4s → 2458.3s] hay muchos casos
+[2458.3s → 2459.3s] que han utilizado
+[2459.3s → 2460.2s] el design thinking
+[2460.2s → 2461.6s] más que todo
+[2461.6s → 2462.5s] para solventar
+[2462.5s → 2463.0s] justamente
+[2463.0s → 2464.4s] estas problemáticas
+[2464.4s → 2465.8s] públicas
+[2465.8s → 2466.3s] supongamos
+[2466.3s → 2466.8s] en Europa
+[2466.8s → 2467.4s] lo utilizan
+[2467.4s → 2467.9s] bastante
+[2467.9s → 2469.0s] lo interesante
+[2469.0s → 2469.3s] de esto
+[2469.3s → 2469.9s] es que justamente
+[2469.9s → 2470.6s] como dices
+[2470.6s → 2471.0s] Ernesto
+[2471.0s → 2472.2s] viene subvencionado
+[2472.2s → 2473.5s] entonces claro
+[2473.5s → 2474.3s] tal vez
+[2474.3s → 2475.6s] no todas las opciones
+[2475.6s → 2476.5s] llegan hacia
+[2476.5s → 2477.7s] el desarrollo
+[2477.7s → 2478.1s] final
+[2478.1s → 2479.1s] pero
+[2479.1s → 2479.8s] justamente
+[2479.8s → 2480.4s] si tú eres
+[2480.4s → 2481.1s] un equipo
+[2481.1s → 2481.8s] supongamos
+[2481.8s → 2482.9s] de expertos
+[2482.9s → 2484.0s] en el área
+[2484.0s → 2485.1s] y vas a desarrollar
+[2485.1s → 2485.9s] muchas veces
+[2485.9s → 2486.9s] estas subvenciones
+[2486.9s → 2488.0s] sí te subvencionan
+[2488.0s → 2489.6s] el prototipo
+[2489.6s → 2490.0s] y claro
+[2490.0s → 2490.5s] luego ya
+[2490.5s → 2491.2s] si el prototipo
+[2491.2s → 2491.7s] es funcional
+[2491.7s → 2493.3s] y toma viabilidad
+[2493.3s → 2494.0s] más lejana
+[2494.0s → 2494.8s] y es factible
+[2494.8s → 2495.8s] y todas las
+[2495.8s → 2496.4s] características
+[2496.4s → 2497.4s] que se necesitan
+[2497.4s → 2498.0s] qué mejor
+[2498.0s → 2499.3s] pero es una forma
+[2499.3s → 2499.8s] también
+[2499.8s → 2501.3s] de dinamizar
+[2501.3s → 2502.2s] la innovación
+[2502.2s → 2503.4s] porque si no
+[2503.4s → 2503.9s] imagínense
+[2503.9s → 2504.5s] la innovación
+[2504.5s → 2505.1s] muchas veces
+[2505.1s → 2505.6s] cuesta
+[2505.6s → 2507.0s] o sea cuesta mucho
+[2507.0s → 2507.7s] cuando hablamos
+[2507.7s → 2508.7s] de un producto
+[2508.7s → 2509.1s] o un servicio
+[2509.1s → 2509.6s] innovador
+[2509.6s → 2510.5s] hablamos de
+[2510.5s → 2511.6s] capitales
+[2511.6s → 2512.7s] muy altos
+[2512.7s → 2513.4s] de inversión
+[2513.4s → 2514.6s] y como emprendedores
+[2514.6s → 2515.2s] muchas veces
+[2515.2s → 2516.3s] no podemos fondear
+[2516.3s → 2517.0s] entonces
+[2517.0s → 2517.7s] qué es lo que ha hecho
+[2517.7s → 2519.1s] bastante la Unión Europea
+[2519.1s → 2519.7s] a pesar de que
+[2519.7s → 2520.4s] sí tiene empresas
+[2520.4s → 2521.3s] que fondean esto
+[2521.3s → 2522.3s] también es desde
+[2522.3s → 2523.3s] el sector público
+[2523.3s → 2525.0s] también fondear proyectos
+[2525.0s → 2525.9s] para tener
+[2525.9s → 2527.3s] soluciones innovadoras
+[2527.3s → 2528.2s] sobre todo
+[2528.2s → 2528.9s] bastante enfocado
+[2528.9s → 2530.1s] en cambio climático
+[2530.1s → 2530.7s] es lo que más
+[2530.7s → 2531.4s] están trabajando
+[2531.4s → 2532.4s] en la Unión Europea
+[2532.4s → 2533.5s] cambio climático
+[2533.5s → 2535.7s] el tema de agricultura
+[2535.7s → 2536.6s] entonces
+[2536.6s → 2537.4s] ahí podemos ver
+[2537.4s → 2537.8s] justamente
+[2537.8s → 2538.5s] cómo desde
+[2538.5s → 2539.4s] el sector público
+[2539.4s → 2540.5s] se presentan
+[2540.5s → 2541.1s] más que todo
+[2541.1s → 2542.0s] como retos
+[2542.0s → 2542.4s] o sea
+[2542.4s → 2543.4s] cómo lo presentan
+[2543.4s → 2543.8s] es como
+[2543.8s → 2544.5s] miren
+[2544.5s → 2545.3s] este es el reto
+[2545.3s → 2545.7s] del
+[2545.7s → 2547.1s] entonces
+[2547.1s → 2547.8s] supongamos
+[2547.8s → 2548.4s] en un país
+[2548.4s → 2548.9s] de Europa
+[2548.9s → 2549.4s] Italia
+[2549.4s → 2550.4s] en una comunidad
+[2550.4s → 2550.8s] entonces
+[2550.8s → 2551.2s] dicen
+[2551.2s → 2552.8s] esta es la comunidad
+[2552.8s → 2555.2s] abrimos una convocatoria
+[2555.2s → 2555.9s] para
+[2555.9s → 2558.3s] tener soluciones
+[2558.3s → 2560.0s] equipos multidisciplinarios
+[2560.0s → 2560.7s] entonces
+[2560.7s → 2561.0s] claro
+[2561.0s → 2561.6s] está alguien
+[2561.6s → 2562.2s] de derecho
+[2562.2s → 2562.8s] está alguien
+[2562.8s → 2563.2s] que sabe
+[2563.2s → 2564.1s] de ingeniería
+[2564.1s → 2565.1s] alguien que sabe
+[2565.1s → 2565.5s] tal vez
+[2565.5s → 2566.3s] de hidrología
+[2566.3s → 2567.4s] alguien que sabe
+[2567.4s → 2567.8s] tal vez
+[2567.8s → 2568.9s] de otras áreas
+[2568.9s → 2569.9s] y presentan
+[2569.9s → 2570.3s] justamente
+[2570.3s → 2570.9s] soluciones
+[2570.9s → 2571.9s] el estado
+[2571.9s → 2572.4s] que es lo que
+[2572.4s → 2572.8s] fondea
+[2572.8s → 2574.3s] el prototipo
+[2574.3s → 2575.0s] si el prototipo
+[2575.0s → 2575.4s] al final
+[2575.4s → 2577.6s] va por buen puerto
+[2577.6s → 2578.0s] al final
+[2578.0s → 2578.4s] la idea
+[2578.4s → 2579.0s] también es que
+[2579.0s → 2579.8s] alguna empresa
+[2579.8s → 2581.6s] tome ese proceso
+[2581.6s → 2582.6s] y comienza ya
+[2582.6s → 2583.7s] a masificar
+[2583.7s → 2584.6s] que mejor
+[2584.6s → 2585.1s] entonces
+[2585.1s → 2586.3s] eso
+[2586.3s → 2586.8s] es verdad
+[2586.8s → 2587.3s] esto y gracias
+[2587.3s → 2588.5s] por igual
+[2588.5s → 2589.2s] compartir
+[2589.2s → 2590.7s] si lo que
+[2590.7s → 2591.7s] lo que me admira
+[2591.7s → 2592.1s] de esto
+[2592.1s → 2592.7s] por ejemplo
+[2592.7s → 2593.3s] está en la agenda
+[2593.3s → 2593.8s] 2030
+[2593.8s → 2595.3s] de los objetivos
+[2595.3s → 2596.0s] de la ODS
+[2596.0s → 2596.6s] precisamente
+[2596.6s → 2597.4s] por el cambio
+[2597.4s → 2598.0s] climático
+[2598.0s → 2599.5s] por el tema
+[2599.5s → 2600.1s] agricultura
+[2600.1s → 2601.1s] y agroalimentación
+[2601.1s → 2602.9s] pero lo interesante
+[2602.9s → 2603.6s] de todo esto
+[2603.6s → 2604.6s] es que los estados
+[2604.6s → 2605.9s] no visualizan
+[2605.9s → 2607.1s] como gasto
+[2607.1s → 2607.9s] sino como inversión
+[2607.9s → 2608.6s] porque dicen
+[2608.6s → 2609.2s] invertimos
+[2609.2s → 2612.7s] en mil propuestas
+[2612.7s → 2613.9s] y de las mil propuestas
+[2613.9s → 2615.3s] una que nos dé la solución
+[2615.3s → 2615.6s] hemos
+[2615.6s → 2617.7s] nuestro alimentado
+[2617.7s → 2618.3s] y probablemente
+[2618.3s → 2618.8s] ganamos
+[2618.8s → 2619.1s] porque
+[2619.1s → 2619.9s] supongamos
+[2619.9s → 2620.7s] en agricultura
+[2620.7s → 2622.3s] con una solución
+[2622.3s → 2622.9s] que tengamos
+[2622.9s → 2624.0s] podemos
+[2624.0s → 2625.7s] plantear
+[2625.7s → 2627.1s] la alimentación
+[2627.1s → 2627.9s] para una población
+[2627.9s → 2630.3s] multinacional
+[2630.3s → 2631.5s] y a su vez
+[2631.5s → 2632.5s] se nos
+[2632.5s → 2634.5s] retroalimenta
+[2634.5s → 2635.0s] y crece
+[2635.0s → 2635.6s] la inversión
+[2635.6s → 2637.2s] es recuperable
+[2637.2s → 2638.3s] mientras que
+[2638.3s → 2639.5s] a nivel de América Latina
+[2639.5s → 2640.1s] por eso ahorita
+[2640.1s → 2640.4s] estamos
+[2640.4s → 2641.5s] complicados
+[2641.5s → 2642.3s] porque no se cumplen
+[2642.3s → 2642.9s] los objetivos
+[2642.9s → 2643.8s] de la ODS
+[2643.8s → 2645.1s] y
+[2645.1s → 2646.4s] no invertimos
+[2646.4s → 2647.1s] porque lo vemos
+[2647.1s → 2647.9s] como gasto
+[2647.9s → 2649.0s] y ahí entra
+[2649.0s → 2649.7s] la contraloría
+[2649.7s → 2650.1s] o sea
+[2650.1s → 2651.7s] porque invirtieron
+[2651.7s → 2652.1s] en algo
+[2652.1s → 2652.9s] que no
+[2652.9s → 2653.8s] resultó
+[2653.8s → 2654.7s] de efectos inmediatos
+[2654.7s → 2655.7s] cuando en realidad
+[2655.7s → 2656.4s] la inversión
+[2656.4s → 2657.5s] es incentivar
+[2657.5s → 2658.3s] a los
+[2658.3s → 2660.0s] a los
+[2660.0s → 2660.9s] a las
+[2660.9s → 2661.7s] tecnológicas
+[2661.7s → 2662.6s] a los innovadores
+[2662.6s → 2663.7s] y a los emprendedores
+[2663.7s → 2665.1s] que sin miedo
+[2665.1s → 2665.6s] inviertan
+[2665.6s → 2666.3s] porque obviamente
+[2666.3s → 2667.1s] claro
+[2667.1s → 2668.3s] reciben un dinero
+[2668.3s → 2669.1s] pero a pesar
+[2669.1s → 2669.7s] de que fallen
+[2669.7s → 2670.2s] una vez
+[2670.2s → 2671.1s] siguen intentándolo
+[2671.1s → 2671.8s] tantas veces
+[2671.8s → 2672.5s] sea necesario
+[2672.5s → 2673.6s] que tengan una solución
+[2673.6s → 2675.6s] claro
+[2675.6s → 2676.5s] lastimosamente
+[2676.5s → 2676.8s] ahí
+[2676.8s → 2677.7s] tenemos
+[2677.7s → 2678.5s] el paradigma
+[2678.5s → 2679.2s] de que
+[2679.2s → 2679.8s] no existen
+[2679.8s → 2680.6s] unas políticas
+[2680.6s → 2682.1s] públicas
+[2682.1s → 2683.9s] que apoyen
+[2683.9s → 2685.0s] al eje
+[2685.0s → 2685.6s] de innovación
+[2685.6s → 2686.7s] lo vemos
+[2686.7s → 2687.3s] muchas veces
+[2687.3s → 2688.2s] como gasto
+[2688.2s → 2689.8s] cuando alguna
+[2689.8s → 2690.9s] entidad pública
+[2690.9s → 2691.5s] sea
+[2691.5s → 2692.8s] gobierno
+[2692.8s → 2693.7s] municipio
+[2693.7s → 2694.7s] prefectura
+[2694.7s → 2695.6s] gas
+[2695.6s → 2696.2s] como tal
+[2696.2s → 2697.8s] realiza algo así
+[2697.8s → 2698.5s] muchas veces
+[2698.5s → 2698.8s] claro
+[2698.8s → 2700.0s] contraloría
+[2700.0s → 2700.6s] cuando te
+[2700.6s → 2701.6s] cuando revisan
+[2701.6s → 2702.2s] los procesos
+[2702.2s → 2702.8s] quieren ver
+[2702.8s → 2703.4s] algo ya
+[2703.4s → 2704.9s] tangible
+[2704.9s → 2705.5s] y algo que ya
+[2705.5s → 2706.2s] esté desarrollado
+[2706.2s → 2706.9s] por cientos
+[2706.9s → 2707.9s] para que se cubra
+[2707.9s → 2709.1s] pero muchas veces
+[2709.1s → 2709.7s] no entendemos
+[2709.7s → 2710.6s] que son procesos
+[2710.6s → 2711.6s] que también
+[2711.6s → 2712.3s] toman tiempo
+[2712.3s → 2713.7s] utilizar estas
+[2713.7s → 2714.4s] metodologías
+[2714.4s → 2714.7s] no es que
+[2714.7s → 2715.2s] de la noche
+[2715.2s → 2715.8s] a la mañana
+[2715.8s → 2717.4s] uno la utiliza
+[2717.4s → 2718.1s] y a la primera
+[2718.1s → 2718.7s] que la utiliza
+[2718.7s → 2719.2s] tiene
+[2719.2s → 2720.5s] el eureka
+[2720.5s → 2721.2s] por decir así
+[2721.2s → 2722.4s] sino que muchas veces
+[2722.4s → 2723.3s] también es prueba
+[2723.3s → 2723.7s] y error
+[2723.7s → 2724.9s] y bueno
+[2724.9s → 2726.1s] eso lastimosamente
+[2726.1s → 2726.7s] no lo ven
+[2726.7s → 2728.1s] como inversión
+[2728.1s → 2728.8s] sino como
+[2728.8s → 2730.4s] gasto
+[2730.4s → 2731.0s] eso es Ernesto
+[2731.0s → 2731.5s] entonces
+[2731.5s → 2732.4s] para continuar
+[2732.4s → 2733.6s] una vez que hemos
+[2733.6s → 2734.5s] hablado justamente
+[2734.5s → 2736.1s] de estas cinco
+[2736.1s → 2736.8s] fases que tiene
+[2736.8s → 2737.6s] el design thinking
+[2737.6s → 2739.3s] hacerles entender
+[2739.3s → 2740.2s] que dentro
+[2740.2s → 2740.7s] del
+[2740.7s → 2743.3s] y para esto
+[2743.3s → 2744.2s] les voy a compartir
+[2744.2s → 2744.7s] justamente
+[2744.7s → 2745.7s] el documento
+[2745.7s → 2746.2s] si esperan
+[2746.2s → 2746.6s] un segundo
+[2746.6s → 2747.4s] está acá
+[2747.4s → 2749.6s] emprendimiento
+[2749.6s → 2750.6s] emprendimiento
+[2750.6s → 2751.8s] portafolio
+[2751.8s → 2752.1s] vamos
+[2752.1s → 2753.7s] un segundo
+[2753.7s → 2754.7s] portafolio
+[2754.7s → 2756.1s] payment
+[2756.1s → 2756.9s] si ya se abrió
+[2756.9s → 2758.0s] ya ahí estamos
+[2758.0s → 2759.1s] en el portafolio
+[2759.1s → 2760.2s] entonces una vez
+[2760.2s → 2761.3s] que les he mostrado
+[2761.3s → 2762.1s] estas cinco
+[2762.1s → 2763.2s] fases del design thinking
+[2763.2s → 2764.5s] hay que tomar
+[2764.5s → 2764.9s] en cuenta
+[2764.9s → 2765.6s] justamente
+[2765.6s → 2767.4s] la primera
+[2767.4s → 2767.8s] parte
+[2767.8s → 2769.5s] del portafolio
+[2769.5s → 2770.2s] entonces
+[2770.2s → 2770.8s] cuando vamos
+[2770.8s → 2771.6s] al documento
+[2771.6s → 2772.3s] que les compartí
+[2772.3s → 2772.8s] justamente
+[2772.8s → 2773.8s] en anuncios
+[2773.8s → 2775.1s] ustedes van
+[2775.1s → 2775.7s] a encontrar
+[2775.7s → 2777.1s] puntos de partida
+[2777.1s → 2778.6s] el desafío
+[2778.6s → 2779.0s] bueno aquí
+[2779.0s → 2779.5s] están como
+[2779.5s → 2781.0s] los desafíos
+[2781.0s → 2781.9s] que se ha planteado
+[2781.9s → 2782.7s] que igual
+[2782.7s → 2783.1s] les mandé
+[2783.1s → 2783.6s] la información
+[2783.6s → 2784.2s] vivir con
+[2784.2s → 2784.6s] IA
+[2784.6s → 2785.3s] vivir mejor
+[2785.3s → 2785.7s] bueno
+[2785.7s → 2786.3s] ahí era mejor
+[2786.3s → 2787.2s] pues se ha ido
+[2787.2s → 2787.6s] un A
+[2787.6s → 2788.7s] vivir con menos
+[2788.7s → 2789.3s] impacto
+[2789.3s → 2790.3s] y de ahí
+[2790.3s → 2791.0s] viene la parte
+[2791.0s → 2791.3s] uno
+[2791.3s → 2791.9s] que justamente
+[2791.9s → 2792.8s] es empatizar
+[2792.8s → 2793.5s] y definir
+[2793.5s → 2794.4s] y aquí
+[2794.4s → 2794.8s] justamente
+[2794.8s → 2795.6s] ya tienen
+[2795.6s → 2796.2s] espacios
+[2796.2s → 2797.0s] para ir
+[2797.0s → 2797.6s] justamente
+[2797.6s → 2798.6s] desarrollando
+[2798.6s → 2799.5s] que es más
+[2799.5s → 2799.8s] que todo
+[2799.8s → 2800.4s] la selección
+[2800.4s → 2801.2s] del segmento
+[2801.2s → 2801.8s] de mercado
+[2801.8s → 2803.8s] realizar
+[2803.8s → 2804.8s] el proceso
+[2804.8s → 2805.5s] de empatizar
+[2805.5s → 2806.2s] la investigación
+[2806.2s → 2807.2s] comenzar
+[2807.2s → 2807.7s] justamente
+[2807.7s → 2808.6s] a entrevistar
+[2808.6s → 2809.5s] personas
+[2809.5s → 2810.3s] del segmento
+[2810.3s → 2811.5s] de clientes
+[2811.5s → 2811.9s] al que ustedes
+[2811.9s → 2812.6s] van a
+[2812.6s → 2814.0s] sacar información
+[2814.0s → 2815.1s] y bueno
+[2815.1s → 2815.5s] el mapa
+[2815.5s → 2816.0s] de empatía
+[2816.0s → 2816.6s] que este
+[2816.6s → 2817.2s] lo veríamos
+[2817.2s → 2818.4s] la siguiente
+[2818.4s → 2819.0s] semana
+[2819.0s → 2820.0s] así que
+[2820.0s → 2820.8s] tranquilos
+[2820.8s → 2821.5s] pero para que
+[2821.5s → 2822.4s] ya puedan ir
+[2822.4s → 2823.3s] justamente
+[2823.3s → 2824.3s] revisando
+[2824.3s → 2825.0s] en qué
+[2825.0s → 2825.7s] consiste
+[2825.7s → 2826.9s] la parte
+[2826.9s → 2827.2s] uno
+[2827.2s → 2827.8s] del
+[2827.8s → 2830.6s] portafolio
+[2830.6s → 2831.3s] emprendedor
+[2831.3s → 2832.0s] de ahí
+[2832.0s → 2832.2s] ustedes
+[2832.2s → 2832.5s] si le
+[2832.5s → 2833.0s] revisan
+[2833.0s → 2834.3s] luego
+[2834.3s → 2834.6s] habrá
+[2834.6s → 2834.8s] una
+[2834.8s → 2835.3s] parte
+[2835.3s → 2836.4s] ¿dónde está?
+[2837.9s → 2838.1s] ah
+[2838.1s → 2838.5s] está solo
+[2838.5s → 2839.0s] la parte
+[2839.0s → 2839.2s] uno
+[2839.2s → 2840.4s] porque
+[2840.4s → 2840.9s] les íbamos
+[2840.9s → 2841.1s] a ir
+[2841.1s → 2841.3s] pasando
+[2841.3s → 2842.0s] por partes
+[2842.0s → 2842.3s] entonces
+[2842.3s → 2842.6s] esta
+[2842.6s → 2843.0s] primera
+[2843.0s → 2843.4s] parte
+[2843.4s → 2844.2s] que
+[2844.2s → 2844.8s] justamente
+[2844.8s → 2845.7s] ya les
+[2845.7s → 2846.2s] compartí
+[2846.2s → 2847.2s] tiene que ver
+[2847.2s → 2847.6s] justamente
+[2847.6s → 2848.3s] con
+[2848.3s → 2848.9s] la fase
+[2848.9s → 2849.2s] uno
+[2849.2s → 2849.5s] y la
+[2849.5s → 2849.6s] fase
+[2849.6s → 2849.9s] dos
+[2849.9s → 2850.9s] empatizar
+[2850.9s → 2851.6s] y definir
+[2851.6s → 2852.2s] entonces
+[2852.2s → 2852.5s] que es lo
+[2852.5s → 2852.8s] que van
+[2852.8s → 2853.1s] a hacer
+[2853.1s → 2853.4s] en el
+[2853.4s → 2853.9s] primer avance
+[2853.9s → 2854.3s] de fase
+[2854.3s → 2854.6s] uno
+[2854.6s → 2854.9s] y fase
+[2854.9s → 2855.2s] dos
+[2855.2s → 2855.8s] luego
+[2855.8s → 2856.1s] en los
+[2856.1s → 2856.4s] siguientes
+[2856.4s → 2856.8s] avances
+[2856.8s → 2857.3s] ya irán
+[2857.3s → 2857.5s] viendo
+[2857.5s → 2858.2s] justamente
+[2858.2s → 2859.3s] las otras
+[2859.3s → 2859.7s] partes
+[2859.7s → 2859.9s] del
+[2859.9s → 2860.2s] de Saint
+[2860.2s → 2860.4s] Tinking
+[2860.4s → 2860.9s] pero esta
+[2860.9s → 2861.3s] más que
+[2861.3s → 2861.6s] todo
+[2861.6s → 2862.8s] tiene que ver
+[2862.8s → 2863.2s] con
+[2863.2s → 2864.0s] la fase
+[2864.0s → 2864.3s] uno
+[2864.3s → 2864.7s] y fase
+[2864.7s → 2865.1s] dos
+[2865.1s → 2866.0s] entonces
+[2866.0s → 2870.2s] es individual
+[2870.2s → 2871.5s] Martory
+[2871.5s → 2873.2s] aún nos han confirmado
+[2873.2s → 2873.9s] si pueden hacer
+[2873.9s → 2874.5s] en parejas
+[2874.5s → 2875.8s] pero por el momento
+[2875.8s → 2876.7s] es individual
+[2876.7s → 2877.6s] no
+[2877.6s → 2878.3s] no en grupos
+[2878.3s → 2878.8s] y
+[2878.8s → 2879.8s] ya nos han
+[2879.8s → 2880.5s] de confirmar
+[2880.5s → 2881.4s] estos días
+[2881.4s → 2882.3s] igual yo les envío
+[2882.3s → 2882.9s] un mensaje
+[2882.9s → 2884.1s] por anuncios
+[2884.1s → 2885.0s] pero por el momento
+[2885.0s → 2885.8s] es individual
+[2885.8s → 2887.5s] para que lo vayan
+[2887.5s → 2888.2s] revisando
+[2888.2s → 2889.3s] se les comparte
+[2889.3s → 2890.0s] igual con tiempo
+[2890.0s → 2890.8s] para que tengan
+[2890.8s → 2891.3s] justamente
+[2891.3s → 2892.0s] tiempo
+[2892.0s → 2893.0s] de sobra
+[2893.0s → 2894.1s] para que lo puedan
+[2894.1s → 2895.4s] ir realizando
+[2895.4s → 2896.1s] poco a poco
+[2896.1s → 2897.6s] que no se les
+[2897.6s → 2899.0s] cruce
+[2899.0s → 2900.1s] con las otras
+[2900.1s → 2901.6s] asignaturas
+[2901.6s → 2902.8s] entonces
+[2902.8s → 2903.2s] bueno
+[2903.2s → 2904.2s] una vez
+[2904.2s → 2905.0s] que les
+[2905.0s → 2906.0s] he comentado
+[2906.0s → 2907.9s] y si
+[2907.9s → 2908.8s] como lo dice
+[2908.8s → 2909.4s] Marcia
+[2909.4s → 2909.9s] es mejor
+[2909.9s → 2910.4s] que lo hagan
+[2910.4s → 2910.8s] de manera
+[2910.8s → 2911.4s] individual
+[2911.4s → 2912.6s] ya que tampoco
+[2912.6s → 2913.2s] es un
+[2913.2s → 2914.0s] trabajo
+[2914.0s → 2914.6s] tan largo
+[2914.6s → 2916.1s] desde el portafolio
+[2916.1s → 2917.0s] lo que se va avanzando
+[2917.0s → 2918.0s] es parte por parte
+[2918.0s → 2918.8s] al final
+[2918.8s → 2919.3s] lo que ustedes
+[2919.3s → 2920.1s] presentan
+[2920.1s → 2920.6s] justamente
+[2920.6s → 2921.6s] el portafolio
+[2921.6s → 2923.3s] en una presentación
+[2923.3s → 2923.9s] justamente
+[2923.9s → 2924.9s] al finalizar
+[2924.9s → 2925.4s] entonces
+[2925.4s → 2925.8s] es parte
+[2925.8s → 2926.3s] de las notas
+[2926.3s → 2926.5s] entonces
+[2926.5s → 2927.4s] todo tiene que ver
+[2927.4s → 2928.4s] todo lo que vamos
+[2928.4s → 2929.0s] a ir haciendo
+[2929.0s → 2930.0s] tiene que ver
+[2930.0s → 2930.5s] justamente
+[2930.5s → 2931.3s] con información
+[2931.3s → 2931.9s] que luego
+[2931.9s → 2932.7s] la van
+[2932.7s → 2933.2s] anclando
+[2933.2s → 2934.4s] al portafolio
+[2934.4s → 2935.1s] entonces
+[2935.1s → 2935.7s] tranquilos
+[2935.7s → 2936.3s] no es que hay
+[2936.3s → 2936.9s] una prueba
+[2936.9s → 2937.4s] no es que hay
+[2937.4s → 2938.1s] una evaluación
+[2938.1s → 2939.1s] sino todo
+[2939.1s → 2939.6s] va anclado
+[2939.6s → 2940.1s] justamente
+[2940.1s → 2940.7s] a esta actividad
+[2940.7s → 2941.8s] del portafolio
+[2941.8s → 2942.9s] y entonces
+[2942.9s → 2943.7s] justamente
+[2943.7s → 2944.7s] como caso
+[2944.7s → 2945.5s] de uso
+[2945.5s → 2946.4s] de design thinking
+[2946.4s → 2948.4s] les he traído
+[2948.4s → 2949.1s] justamente
+[2949.1s → 2950.7s] esta app
+[2950.7s → 2952.0s] que se denominó
+[2952.0s → 2952.7s] Club Academy
+[2952.7s → 2954.2s] yo les había comentado
+[2954.2s → 2954.7s] justamente
+[2954.7s → 2955.5s] que había tenido
+[2955.5s → 2956.5s] un emprendimiento
+[2956.5s → 2956.8s] bueno
+[2956.8s → 2958.5s] uno de tres
+[2958.5s → 2960.7s] les presento hoy
+[2960.7s → 2961.2s] entonces
+[2961.2s → 2961.9s] uno de ellos
+[2961.9s → 2962.6s] justamente
+[2962.6s → 2964.2s] fue esta plataforma
+[2964.2s → 2965.7s] esta plataforma
+[2965.7s → 2967.0s] en un inicio
+[2967.0s → 2968.6s] y algo que comentarles
+[2968.6s → 2969.4s] fue
+[2969.4s → 2970.7s] anclada
+[2970.7s → 2971.2s] a través
+[2971.2s → 2971.8s] justamente
+[2971.8s → 2972.2s] del uso
+[2972.2s → 2972.9s] de design thinking
+[2972.9s → 2973.3s] entonces
+[2973.3s → 2974.9s] cuando lo usé
+[2974.9s → 2975.6s] cuando usé
+[2975.6s → 2976.2s] design thinking
+[2976.2s → 2976.8s] exactamente
+[2976.8s → 2978.7s] fue en el punto
+[2978.7s → 2979.6s] en que
+[2979.6s → 2980.3s] comenzó
+[2980.3s → 2980.7s] pandemia
+[2980.7s → 2981.3s] entonces
+[2981.3s → 2981.7s] todos
+[2981.7s → 2982.7s] han de recordar
+[2982.7s → 2983.1s] pandemia
+[2983.1s → 2984.6s] todos encerrados
+[2984.6s → 2985.5s] todos justamente
+[2985.5s → 2986.6s] con estas normas
+[2986.6s → 2987.3s] restrictivas
+[2987.3s → 2988.6s] y claro
+[2988.6s → 2989.6s] muchos de nosotros
+[2989.6s → 2990.5s] en ese punto
+[2990.5s → 2991.8s] pues nos quedamos
+[2991.8s → 2993.2s] sin empleo
+[2993.2s → 2993.9s] ya ahí me uno
+[2993.9s → 2995.2s] a los que tal vez
+[2995.2s → 2996.2s] les pasó algo similar
+[2996.2s → 2997.3s] yo trabajaba
+[2997.3s → 2998.1s] hasta ese momento
+[2998.1s → 2998.6s] justamente
+[2998.6s → 2999.5s] capacitando
+[2999.5s → 3000.4s] pero en capacitación
+[3000.4s → 3000.9s] presencial
+[3000.9s → 3002.1s] yo ya conocía
+[3002.1s → 3002.7s] todo lo que es
+[3002.7s → 3003.8s] plataformas digitales
+[3003.8s → 3004.5s] porque había tomado
+[3004.5s → 3005.6s] un paro de cursos
+[3005.6s → 3006.8s] entonces por ejemplo
+[3006.8s → 3007.3s] el zoom
+[3007.3s → 3008.8s] yo ya lo conocía
+[3008.8s → 3010.5s] de había otra herramienta
+[3010.5s → 3011.1s] que era
+[3011.1s → 3013.1s] Vimax
+[3013.1s → 3013.8s] Videomax
+[3013.8s → 3014.2s] algo así
+[3014.2s → 3015.7s] que justamente
+[3015.7s → 3016.7s] también la conocía
+[3016.7s → 3017.5s] que era de video
+[3017.5s → 3018.8s] y había otra
+[3018.8s → 3019.9s] que tenía como un loguito
+[3019.9s → 3020.8s] como de un camello
+[3020.8s → 3021.8s] pero se me va el nombre
+[3021.8s → 3022.6s] que estaba en inglés
+[3022.6s → 3024.0s] que igual la conocía
+[3024.0s → 3025.7s] pero eso era más que todo
+[3025.7s → 3026.8s] por un contexto
+[3026.8s → 3027.9s] personal
+[3027.9s → 3028.7s] de unos cursos
+[3028.7s → 3029.4s] que había tomado
+[3029.4s → 3030.3s] entonces bueno
+[3030.3s → 3031.0s] en ese punto
+[3031.0s → 3032.0s] sin trabajo
+[3032.0s → 3033.7s] sin nada que hacer
+[3033.7s → 3035.0s] me puse a pensar
+[3035.0s → 3035.3s] bueno
+[3035.3s → 3036.2s] qué problemas
+[3036.2s → 3037.5s] se comienzan a presentar
+[3037.5s → 3038.7s] en este escenario
+[3038.7s → 3040.1s] y uno de los problemas
+[3040.1s → 3040.7s] que encontré
+[3040.7s → 3041.4s] fue justamente
+[3041.4s → 3042.2s] enfocado
+[3042.2s → 3043.5s] en los niños
+[3043.5s → 3044.6s] yo en ese momento
+[3044.6s → 3045.4s] tenía un primo
+[3045.4s → 3046.5s] que tenía alrededor
+[3046.5s → 3047.8s] de siete años y medio
+[3047.8s → 3049.0s] entonces imaginarán
+[3049.0s → 3049.9s] un primo en escuela
+[3049.9s → 3051.0s] y claro
+[3051.0s → 3052.3s] cuando nos sabíamos
+[3052.3s → 3053.2s] conectar
+[3053.2s → 3053.6s] a veces
+[3053.6s → 3055.1s] a jugar videojuegos
+[3055.1s → 3056.3s] o jugar algo
+[3056.3s → 3057.3s] conversaba con él
+[3057.3s → 3058.9s] entonces cuando conversábamos
+[3058.9s → 3059.3s] les decía
+[3059.3s → 3059.5s] bueno
+[3059.5s → 3060.2s] y qué estás haciendo
+[3060.2s → 3061.3s] qué tal las clases
+[3061.3s → 3062.4s] entonces fue
+[3062.4s → 3063.8s] la primera cercanía
+[3063.8s → 3064.4s] de ver que
+[3064.4s → 3065.1s] muchas veces decían
+[3065.1s → 3066.3s] no es que son aburridas
+[3066.3s → 3067.9s] ya no estoy haciendo amigos
+[3067.9s → 3069.2s] entonces eso
+[3069.2s → 3070.9s] me retumbó mucho
+[3070.9s → 3072.3s] eso que me dijo
+[3072.3s → 3073.7s] no estoy haciendo amigos
+[3073.7s → 3075.0s] y claro
+[3075.0s → 3076.1s] desde esa perspectiva
+[3076.1s → 3076.3s] dije
+[3076.3s → 3077.2s] aquí hay un problema
+[3077.2s → 3078.4s] el problema
+[3078.4s → 3078.4s] el problema
+[3078.4s → 3080.0s] es que esas capacidades
+[3080.0s → 3080.9s] muchas veces
+[3080.9s → 3082.1s] de interactuar
+[3082.1s → 3083.4s] se estaban perdiendo
+[3083.4s → 3085.2s] primero identifique
+[3085.2s → 3086.3s] ese problema
+[3086.3s → 3087.2s] luego
+[3087.2s → 3088.1s] comencé a hablar
+[3088.1s → 3088.8s] con padres
+[3088.8s → 3089.9s] justamente de familia
+[3089.9s → 3090.7s] que tenían hijos
+[3090.7s → 3092.3s] en edades de escuela
+[3092.3s → 3093.9s] a saber qué opinaban
+[3093.9s → 3094.7s] de las actividades
+[3094.7s → 3095.8s] justamente en línea
+[3095.8s → 3097.0s] y ahí encontré
+[3097.0s → 3097.6s] otro problema
+[3097.6s → 3098.7s] primero que
+[3098.7s → 3099.6s] los papás decían
+[3099.6s → 3101.0s] que eran muy planas
+[3101.0s → 3102.0s] o sea una clase
+[3102.0s → 3103.1s] prácticamente era
+[3103.1s → 3104.1s] miren esto
+[3104.1s → 3105.4s] y te mandaban
+[3105.4s → 3106.2s] diapositivas
+[3106.2s → 3107.8s] a lo loco
+[3107.8s → 3108.8s] sin imágenes
+[3108.8s → 3110.3s] y no hacías nada más
+[3110.3s → 3111.1s] que aprender
+[3111.1s → 3112.6s] casi como en universidad
+[3112.6s → 3113.4s] entonces
+[3113.4s → 3114.4s] si tú comparabas
+[3114.4s → 3115.5s] una clase de universidad
+[3115.5s → 3116.3s] con una escuela
+[3116.3s → 3117.7s] era prácticamente
+[3117.7s → 3118.3s] lo mismo
+[3118.3s → 3119.5s] el Zoom
+[3119.5s → 3120.4s] entonces claro
+[3120.4s → 3121.8s] no había esa distinción
+[3121.8s → 3123.0s] entonces me di cuenta
+[3123.0s → 3123.7s] que los papás
+[3123.7s → 3124.5s] estaban igual
+[3124.5s → 3125.2s] tristes
+[3125.2s → 3126.0s] tenían más bien
+[3126.0s → 3127.0s] una necesidad
+[3127.0s → 3128.2s] insatisfecha
+[3128.2s → 3128.8s] de que sus hijos
+[3128.8s → 3129.9s] no estaban haciendo
+[3129.9s → 3131.8s] más que aprender
+[3131.8s → 3133.0s] de una manera plana
+[3133.0s → 3134.0s] y muchos de ellos
+[3134.0s → 3134.6s] ya no estaban
+[3134.6s → 3135.8s] haciendo ni actividades
+[3135.8s → 3136.7s] y aquí es algo
+[3136.7s → 3137.8s] interesante que nació
+[3137.8s → 3139.2s] justamente actividades
+[3139.2s → 3140.4s] extracurriculares
+[3140.4s → 3141.8s] entonces ahí fue
+[3141.8s → 3142.5s] cuando encajé
+[3142.5s → 3143.5s] porque tenía por un lado
+[3143.5s → 3145.2s] el cliente
+[3145.2s → 3146.2s] que eran madres y padres
+[3146.2s → 3146.9s] y por otro lado
+[3146.9s → 3147.6s] tenía el usuario
+[3147.6s → 3148.8s] que eran niños
+[3148.8s → 3150.5s] ambos con problemas
+[3150.5s → 3151.5s] necesidades
+[3151.5s → 3152.7s] similares
+[3152.7s → 3153.6s] y claro
+[3153.6s → 3154.3s] en ese momento
+[3154.3s → 3155.3s] me di cuenta
+[3155.3s → 3157.1s] y tras un análisis
+[3157.1s → 3157.8s] investigación
+[3157.8s → 3158.7s] y bueno
+[3158.7s → 3159.6s] también bastante
+[3159.6s → 3160.9s] inspiración
+[3160.9s → 3161.7s] que tenía que ver
+[3161.7s → 3163.1s] con lo que a mí
+[3163.1s → 3165.0s] me recordaba
+[3165.0s → 3165.5s] la escuela
+[3165.5s → 3166.6s] por ahí varios
+[3166.6s → 3167.3s] ustedes se acuerdan
+[3167.3s → 3168.1s] que lo que había
+[3168.1s → 3168.9s] después de que uno
+[3168.9s → 3169.6s] estaba en la escuela
+[3169.6s → 3170.2s] eran actividades
+[3170.2s → 3171.2s] extracurriculares
+[3171.2s → 3172.1s] o denominados
+[3172.1s → 3173.0s] clubes
+[3173.0s → 3173.9s] justamente club
+[3173.9s → 3174.5s] de fútbol
+[3174.5s → 3175.3s] club de ajedrez
+[3175.3s → 3176.9s] club de gimnasia
+[3176.9s → 3177.9s] de básquet
+[3177.9s → 3179.2s] entonces nace
+[3179.2s → 3180.1s] a partir de eso
+[3180.1s → 3180.9s] justamente
+[3180.9s → 3182.4s] la concepción
+[3182.4s → 3183.3s] de generar
+[3183.3s → 3183.7s] justamente
+[3183.7s → 3184.4s] actividades
+[3184.4s → 3185.5s] extracurriculares
+[3185.5s → 3187.2s] en un principio
+[3187.2s → 3188.2s] el nombre como tal
+[3188.2s → 3189.3s] no fue club
+[3189.3s → 3190.6s] fue más bien
+[3190.6s → 3192.3s] en una comunidad
+[3192.3s → 3192.9s] lúdica
+[3192.9s → 3194.0s] claro
+[3194.0s → 3194.8s] pero cuando ya
+[3194.8s → 3195.7s] comencé a trabajar
+[3195.7s → 3196.5s] en procesos
+[3196.5s → 3197.3s] de design thinking
+[3197.3s → 3197.9s] indicación
+[3197.9s → 3198.8s] hasta para el nombre
+[3198.8s → 3199.6s] justamente
+[3199.6s → 3200.7s] llegamos a club
+[3200.7s → 3202.1s] que la denominación
+[3202.1s → 3202.9s] justamente es
+[3202.9s → 3203.8s] comunidad lúdica
+[3203.8s → 3204.2s] virtual
+[3204.2s → 3205.7s] que al final
+[3205.7s → 3206.6s] es bastante
+[3206.6s → 3207.1s] llamativo
+[3207.1s → 3207.8s] porque es
+[3207.8s → 3209.0s] como un club
+[3209.0s → 3210.3s] pero llevado
+[3210.3s → 3211.0s] hacia la parte
+[3211.0s → 3211.4s] virtual
+[3211.4s → 3212.6s] entonces claro
+[3212.6s → 3213.4s] en ese momento
+[3213.4s → 3214.4s] generamos
+[3214.4s → 3215.0s] los primeros
+[3215.0s → 3215.7s] prototipos
+[3215.7s → 3216.3s] investigamos
+[3216.3s → 3216.7s] bastante
+[3216.7s → 3217.4s] los clientes
+[3217.4s → 3218.1s] entonces ya
+[3218.1s → 3218.4s] teníamos
+[3218.4s → 3220.0s] información importante
+[3220.0s → 3220.7s] de empatizar
+[3220.7s → 3222.1s] luego definimos
+[3222.1s → 3222.8s] luego generamos
+[3222.8s → 3223.2s] ideas
+[3223.2s → 3224.1s] y luego generamos
+[3224.1s → 3224.9s] prototipos
+[3224.9s → 3226.1s] los primeros
+[3226.1s → 3226.8s] prototipos
+[3226.8s → 3227.5s] fueron bastante
+[3227.5s → 3228.1s] interesantes
+[3228.1s → 3228.7s] porque claro
+[3228.7s → 3229.8s] ahí en cambio
+[3229.8s → 3230.4s] ni la parte
+[3230.4s → 3231.2s] que justamente
+[3231.2s → 3232.6s] sabía del manejo
+[3232.6s → 3233.0s] de Zoom
+[3233.0s → 3234.4s] sabía justamente
+[3234.4s → 3235.4s] la plataforma
+[3235.4s → 3236.7s] entonces
+[3236.7s → 3238.7s] pagué
+[3238.7s → 3239.7s] pagué
+[3239.7s → 3240.3s] una licencia
+[3240.3s → 3240.8s] si me acuerdo
+[3240.8s → 3241.8s] pagué una licencia
+[3241.8s → 3243.1s] que en ese tiempo
+[3243.1s → 3244.7s] no era tan cara
+[3244.7s → 3245.5s] porque no mucha
+[3245.5s → 3246.4s] gente utilizaba
+[3246.4s → 3247.3s] entonces pagué
+[3247.3s → 3248.2s] por una licencia
+[3248.2s → 3248.7s] más que todo
+[3248.7s → 3249.3s] educativa
+[3249.3s → 3250.6s] comenzamos
+[3250.6s → 3251.1s] a utilizar
+[3251.1s → 3251.5s] a hacer
+[3251.5s → 3252.4s] pequeñas pruebas
+[3252.4s → 3253.5s] a lanzar
+[3253.5s → 3254.3s] pequeños
+[3254.3s → 3256.6s] invitaciones
+[3256.6s → 3257.0s] a padres
+[3257.0s → 3257.5s] de familia
+[3257.5s → 3258.0s] para que
+[3258.0s → 3259.4s] interactúen
+[3259.4s → 3260.8s] en un punto
+[3260.8s → 3261.6s] tuvimos
+[3261.6s → 3262.8s] tres actividades
+[3262.8s → 3264.1s] extracurriculares
+[3264.1s → 3265.5s] algunas bastante
+[3265.5s → 3266.4s] innovadoras
+[3266.4s → 3267.1s] como por ejemplo
+[3267.1s → 3267.9s] tuvimos un club
+[3267.9s → 3268.8s] de robótica
+[3268.8s → 3269.8s] un club
+[3269.8s → 3270.6s] de coreano
+[3270.6s → 3271.6s] un club
+[3271.6s → 3272.1s] justamente
+[3272.1s → 3272.8s] de bienestar
+[3272.8s → 3273.4s] animal
+[3273.4s → 3274.5s] que justamente
+[3274.5s → 3275.6s] fueron actividades
+[3275.6s → 3276.5s] que íbamos mapeando
+[3276.5s → 3277.4s] a través justamente
+[3277.4s → 3278.4s] de procesos
+[3278.4s → 3279.1s] de hablar
+[3279.1s → 3280.0s] con los clientes
+[3280.0s → 3280.7s] con los niños
+[3280.7s → 3281.9s] saber que les gustaba
+[3281.9s → 3282.9s] y justamente
+[3282.9s → 3284.2s] ir teniendo estas actividades
+[3284.2s → 3286.1s] que sea del gusto
+[3286.1s → 3287.5s] de ellos
+[3287.5s → 3288.7s] la plataforma
+[3288.7s → 3289.1s] bueno
+[3289.1s → 3290.2s] en pandemia
+[3290.2s → 3291.3s] tuvo un gran auge
+[3291.3s → 3292.7s] nos fue bastante bien
+[3292.7s → 3293.7s] luego
+[3293.7s → 3294.9s] nos dimos cuenta
+[3294.9s → 3295.8s] por un proceso
+[3295.8s → 3296.8s] que llevamos a cabo
+[3296.8s → 3298.8s] y con quien fue
+[3298.8s → 3299.3s] el
+[3299.3s → 3300.9s] el cofundador
+[3300.9s → 3301.6s] justamente
+[3301.6s → 3303.2s] que necesitábamos
+[3303.2s → 3303.9s] profesores
+[3303.9s → 3305.1s] y ahí en cambio
+[3305.1s → 3306.8s] vino a la otra parte
+[3306.8s → 3308.3s] de buscar justamente
+[3308.3s → 3309.2s] como ustedes ven
+[3309.2s → 3310.0s] en las imágenes
+[3310.0s → 3311.3s] pueden ver por ahí
+[3311.3s → 3312.3s] a dos profesores
+[3312.3s → 3313.5s] eran profesores
+[3313.5s → 3314.4s] bastante jóvenes
+[3314.4s → 3315.4s] y ahí claro
+[3315.4s → 3316.5s] ahí vino el match
+[3316.5s → 3318.2s] utilizando más o menos
+[3318.2s → 3319.0s] lo que es parecido
+[3319.0s → 3319.6s] un airbnb
+[3319.6s → 3320.3s] o un uber
+[3320.3s → 3321.4s] por un lado
+[3321.4s → 3322.3s] niños y padres
+[3322.3s → 3323.0s] que querían hacer
+[3323.0s → 3324.0s] actividades curriculares
+[3324.0s → 3325.3s] por otro lado
+[3325.3s → 3325.8s] jóvenes
+[3325.8s → 3327.4s] y profesores
+[3327.4s → 3327.9s] justamente
+[3327.9s → 3328.6s] de estas
+[3328.6s → 3329.7s] de estas
+[3329.7s → 3330.8s] tipos de actividades
+[3330.8s → 3332.2s] que se habían quedado
+[3332.2s → 3332.8s] sin trabajo
+[3332.8s → 3333.5s] porque claro
+[3333.5s → 3333.9s] ya no había
+[3333.9s → 3334.9s] cómo dar presencial
+[3334.9s → 3335.5s] o sea
+[3335.5s → 3336.9s] tú no podías dar
+[3336.9s → 3337.4s] por ejemplo
+[3337.4s → 3338.2s] gimnasia
+[3338.2s → 3339.6s] te cuando presencialmente
+[3339.6s → 3340.7s] si no tenías
+[3340.7s → 3341.0s] que hacerlo
+[3341.0s → 3341.9s] virtualmente
+[3341.9s → 3342.9s] y aún no era
+[3342.9s → 3344.5s] algo muy interesante
+[3344.5s → 3345.3s] que tomar
+[3345.3s → 3346.4s] entonces claro
+[3346.4s → 3347.2s] se habían quedado
+[3347.2s → 3347.7s] sin trabajo
+[3347.7s → 3348.3s] entonces era
+[3348.3s → 3349.5s] cómo conectábamos
+[3349.5s → 3351.1s] a través de la plataforma
+[3351.1s → 3352.1s] estos dos mundos
+[3352.1s → 3352.9s] niños
+[3352.9s → 3353.9s] con jóvenes
+[3353.9s → 3354.5s] profesores
+[3354.5s → 3355.7s] entonces logramos
+[3355.7s → 3356.1s] hacerlo
+[3356.1s → 3357.3s] tuvimos alrededor
+[3357.3s → 3357.8s] de
+[3357.8s → 3359.2s] en el punto
+[3359.2s → 3360.4s] máximo
+[3360.4s → 3361.2s] 22
+[3361.2s → 3363.3s] 23 profesores
+[3363.3s → 3364.9s] como
+[3364.9s → 3365.7s] de niños
+[3365.7s → 3366.6s] igual tuvimos
+[3366.6s → 3368.5s] gran auge
+[3368.5s → 3369.2s] tuvimos
+[3369.2s → 3370.1s] a ver
+[3370.1s → 3370.9s] 1, 2, 3
+[3370.9s → 3372.2s] 3 vacacionales
+[3372.2s → 3373.0s] y
+[3373.0s → 3374.2s] 1,500
+[3374.2s → 3375.0s] niños
+[3375.0s → 3376.4s] 1,510 niños
+[3376.4s → 3377.1s] impactados
+[3377.1s → 3378.6s] madres de familia
+[3378.6s → 3379.0s] padres
+[3379.0s → 3379.2s] o sea
+[3379.2s → 3379.8s] no se iba bien
+[3379.8s → 3381.2s] luego postulamos
+[3381.2s → 3382.0s] a lo que es
+[3382.0s → 3382.4s] el fondo
+[3382.4s → 3382.9s] de capital
+[3382.9s → 3383.4s] semilla
+[3383.4s → 3383.8s] justamente
+[3383.8s → 3384.5s] de la ciudad
+[3384.5s → 3384.9s] de Quito
+[3384.9s → 3386.1s] ganamos
+[3386.1s → 3386.8s] justamente
+[3386.8s → 3388.7s] capital
+[3388.7s → 3389.2s] semilla
+[3389.2s → 3390.1s] con eso
+[3390.1s → 3390.5s] pudimos
+[3390.5s → 3391.1s] desarrollar
+[3391.1s → 3391.4s] ya la
+[3391.4s → 3392.1s] plataforma
+[3392.1s → 3393.6s] encadenada
+[3393.6s → 3394.3s] lo que era
+[3394.3s → 3395.3s] justamente
+[3395.3s → 3395.8s] Zoom
+[3395.8s → 3396.8s] un aplicativo
+[3396.8s → 3397.8s] y una web
+[3397.8s → 3398.9s] y bueno
+[3398.9s → 3399.6s] ese fue como
+[3399.6s → 3400.2s] el punto
+[3400.2s → 3401.1s] llamémoslo así
+[3401.1s → 3401.7s] máximo
+[3401.7s → 3403.2s] que llegamos
+[3403.2s → 3404.2s] donde fue
+[3404.2s → 3404.4s] el punto
+[3404.4s → 3405.1s] de declive
+[3405.1s → 3405.8s] porque como
+[3405.8s → 3406.8s] como les dije
+[3406.8s → 3407.9s] y ya no
+[3407.9s → 3408.8s] continúen esto
+[3408.8s → 3409.9s] me hubiese encantado
+[3409.9s → 3410.3s] continuar
+[3410.3s → 3410.7s] pero
+[3410.7s → 3411.3s] fue el punto
+[3411.3s → 3411.9s] de declive
+[3411.9s → 3413.1s] fue el punto
+[3413.1s → 3414.1s] en el que
+[3414.1s → 3415.0s] no escuchamos
+[3415.0s → 3416.2s] al cliente
+[3416.2s → 3417.0s] y ahí quiero
+[3417.0s → 3417.4s] llegar con
+[3417.4s → 3417.8s] ustedes
+[3417.8s → 3418.7s] a ese punto
+[3418.7s → 3419.2s] porque es
+[3419.2s → 3420.0s] importante
+[3420.0s → 3421.1s] dentro del
+[3421.1s → 3421.5s] uso de la
+[3421.5s → 3422.0s] metodología
+[3422.0s → 3422.2s] de
+[3422.2s → 3422.7s] sign thinking
+[3422.7s → 3423.8s] siempre estar
+[3423.8s → 3424.4s] en contacto
+[3424.4s → 3425.0s] con el cliente
+[3425.0s → 3425.8s] nosotros
+[3425.8s → 3426.7s] llegamos
+[3426.7s → 3427.2s] en un punto
+[3427.2s → 3427.6s] que no
+[3427.6s → 3428.0s] escuchamos
+[3428.0s → 3428.5s] al cliente
+[3428.5s → 3429.1s] y nos guiamos
+[3429.1s → 3429.5s] mucho
+[3429.5s → 3429.9s] por
+[3429.9s → 3430.8s] investigación
+[3430.8s → 3431.5s] información
+[3431.5s → 3432.1s] y datos
+[3432.1s → 3433.0s] entonces
+[3433.0s → 3433.7s] la investigación
+[3433.7s → 3434.2s] información
+[3434.2s → 3434.9s] y los datos
+[3434.9s → 3436.0s] nos decían
+[3436.0s → 3436.5s] que como
+[3436.5s → 3437.0s] en Europa
+[3437.0s → 3437.8s] y Estados Unidos
+[3437.8s → 3438.7s] esta industria
+[3438.7s → 3439.8s] educativa
+[3439.8s → 3440.5s] y tecnológica
+[3440.5s → 3440.9s] para niños
+[3440.9s → 3441.8s] estaba creciendo
+[3441.8s → 3443.2s] en Ecuador
+[3443.2s → 3443.9s] y en Sudamérica
+[3443.9s → 3444.6s] debería pasar
+[3444.6s → 3445.0s] lo mismo
+[3445.0s → 3446.0s] entonces
+[3446.0s → 3446.8s] es la lógica
+[3446.8s → 3447.5s] la lógica
+[3447.5s → 3447.7s] es
+[3447.7s → 3448.7s] estamos utilizando
+[3448.7s → 3450.1s] ya de esta manera
+[3450.1s → 3450.8s] en Estados Unidos
+[3450.8s → 3451.7s] y en Europa
+[3451.7s → 3452.6s] así mismo
+[3452.6s → 3453.2s] la van a utilizar
+[3453.2s → 3454.9s] y eso es mentira
+[3454.9s → 3455.8s] eso cambia mucho
+[3455.8s → 3456.6s] en el contexto
+[3456.6s → 3457.2s] y el entorno
+[3457.2s → 3457.8s] lo que también
+[3457.8s → 3458.6s] les he comentado
+[3458.6s → 3459.7s] entonces aquí
+[3459.7s → 3460.5s] el error fue
+[3460.5s → 3460.9s] que
+[3460.9s → 3463.1s] cuando hablamos
+[3463.1s → 3463.7s] en un punto
+[3463.7s → 3464.5s] con las mamás
+[3464.5s → 3466.3s] que eran quienes
+[3466.3s → 3467.4s] tomaban la decisión
+[3467.4s → 3467.8s] siempre
+[3467.8s → 3468.9s] en cuanto
+[3468.9s → 3469.5s] al uso
+[3469.5s → 3470.2s] de la plataforma
+[3470.2s → 3471.1s] y que actividades
+[3471.1s → 3471.6s] seguían
+[3471.6s → 3472.8s] las mamás
+[3472.8s → 3473.4s] nos decían
+[3473.4s → 3473.7s] mucho
+[3473.7s → 3474.3s] por el tema
+[3474.3s → 3474.9s] presencial
+[3474.9s → 3476.2s] hubiera un par
+[3476.2s → 3476.7s] de mamás
+[3476.7s → 3477.6s] una hasta que
+[3477.6s → 3478.4s] yo hablé
+[3478.4s → 3479.1s] por teléfono
+[3479.1s → 3480.5s] y me preguntó
+[3480.5s → 3481.1s] porque ya se estaba
+[3481.1s → 3482.0s] acampando un poco
+[3482.0s → 3482.6s] la pandemia
+[3482.6s → 3483.4s] estaban pasando
+[3483.4s → 3484.3s] las restricciones
+[3484.3s → 3485.6s] ya comenzamos
+[3485.6s → 3486.1s] a tener
+[3486.1s → 3486.9s] ausentismo
+[3486.9s → 3488.7s] era un ausentismo
+[3488.7s → 3489.0s] de
+[3489.0s → 3490.2s] los papás
+[3490.2s → 3490.8s] ya habían pagado
+[3490.8s → 3491.5s] por los clubes
+[3491.5s → 3492.0s] pero los niños
+[3492.0s → 3492.5s] comenzaron
+[3492.5s → 3493.3s] a ausentarse
+[3493.3s → 3494.4s] entonces
+[3494.4s → 3494.9s] supongamos
+[3494.9s → 3495.9s] habían clientes
+[3495.9s → 3496.4s] que habían estado
+[3496.4s → 3498.5s] todo ese periodo
+[3498.5s → 3499.1s] de pandemia
+[3499.1s → 3499.8s] con nosotros
+[3499.8s → 3500.9s] y de repente
+[3500.9s → 3501.3s] los niños
+[3501.3s → 3502.9s] comenzaron a faltar
+[3502.9s → 3503.3s] a clases
+[3503.3s → 3503.4s] a clases
+[3503.4s → 3504.7s] que les gustaban
+[3504.7s → 3505.2s] a clases
+[3505.2s → 3505.6s] que a ellos
+[3505.6s → 3506.4s] les gustaban
+[3506.4s → 3507.4s] pasaban bien
+[3507.4s → 3508.3s] con el profe
+[3508.3s → 3509.0s] todo
+[3509.0s → 3509.9s] entonces comenzaron
+[3509.9s → 3510.5s] a faltar
+[3510.5s → 3511.5s] y ahí justamente
+[3511.5s → 3512.7s] uno de estos momentos
+[3512.7s → 3513.5s] fue que yo hablé
+[3513.5s → 3514.8s] con una de las mamás
+[3514.8s → 3515.1s] que fue
+[3515.1s → 3515.8s] nuestras primeras
+[3515.8s → 3516.4s] clientes
+[3516.4s → 3517.5s] y le comenté
+[3517.5s → 3518.3s] que estaba sucediendo
+[3518.3s → 3518.9s] yo pensando
+[3518.9s → 3519.6s] que había pasado
+[3519.6s → 3520.0s] algo
+[3520.0s → 3520.8s] y claro
+[3520.8s → 3521.5s] y me comentó
+[3521.5s → 3522.1s] que la niña
+[3522.1s → 3522.9s] ya estaba empezando
+[3522.9s → 3523.1s] a salir
+[3523.1s → 3524.2s] con sus amigas
+[3524.2s → 3525.6s] que estaba empezando
+[3525.6s → 3526.1s] ya a tener
+[3526.1s → 3526.7s] más actividades
+[3526.7s → 3527.4s] fuera de casa
+[3527.4s → 3529.2s] y que sin algún punto
+[3529.2s → 3529.6s] nosotros
+[3529.6s → 3531.1s] habíamos analizado
+[3531.1s → 3532.7s] abrir un local presencial
+[3532.7s → 3534.0s] a lo cual
+[3534.0s → 3534.7s] yo le respondí
+[3534.7s → 3535.7s] que íbamos a hablarlo
+[3535.7s → 3536.2s] a la interna
+[3536.2s → 3537.6s] luego cuando lo hablamos
+[3537.6s → 3538.2s] a la interna
+[3538.2s → 3539.5s] con los profesores
+[3539.5s → 3542.4s] y con el fundador
+[3542.4s → 3543.7s] con el equipo
+[3543.7s → 3544.8s] ya administrativo
+[3544.8s → 3545.2s] y todo
+[3545.2s → 3546.2s] claro
+[3546.2s → 3547.6s] cuando vimos los datos
+[3547.6s → 3548.9s] en un dashboard
+[3548.9s → 3550.1s] ya se imaginarán
+[3550.1s → 3551.0s] uno vio
+[3551.0s → 3551.6s] que los datos
+[3551.6s → 3552.3s] a nivel mundial
+[3552.3s → 3552.9s] eran que esto
+[3552.9s → 3553.6s] no iba a cambiar
+[3553.6s → 3555.0s] y que más que todo
+[3555.0s → 3555.8s] ese era un evento
+[3555.8s → 3556.7s] aislado
+[3556.7s → 3556.9s] o sea
+[3556.9s → 3557.2s] al final
+[3557.2s → 3558.0s] nuestra percepción
+[3558.0s → 3558.4s] fue que
+[3558.4s → 3559.5s] ese que nos decía
+[3559.5s → 3559.9s] la mamá
+[3559.9s → 3561.0s] era un evento
+[3561.0s → 3561.5s] aislado
+[3561.5s → 3563.0s] a mí
+[3563.0s → 3563.6s] algo
+[3563.6s → 3564.2s] ya les digo
+[3564.2s → 3564.7s] a mí algo
+[3564.7s → 3565.8s] que sí me quedó
+[3565.8s → 3566.0s] siempre
+[3566.0s → 3566.5s] fue que
+[3566.5s → 3567.8s] yo sentía
+[3567.8s → 3569.7s] y es esa chispa
+[3569.7s → 3570.4s] que le suelo decir
+[3570.4s → 3571.8s] uno siente también
+[3571.8s → 3572.4s] cuando a veces
+[3572.4s → 3573.0s] algo
+[3573.0s → 3574.0s] no va bien
+[3574.0s → 3575.4s] pero
+[3575.4s → 3576.6s] yo no lo entendí
+[3576.6s → 3576.8s] o sea
+[3576.8s → 3577.8s] como en ese momento
+[3577.8s → 3578.8s] uno también estaba
+[3578.8s → 3579.3s] con
+[3579.3s → 3580.8s] múltiples actividades
+[3580.8s → 3581.8s] y
+[3581.8s → 3583.4s] en un punto
+[3583.4s → 3583.7s] también
+[3583.7s → 3584.8s] yo en ese momento
+[3584.8s → 3587.1s] también había retomado
+[3587.1s → 3587.7s] otras actividades
+[3587.7s → 3588.5s] más que tenía
+[3588.5s → 3589.8s] pues dije
+[3589.8s → 3591.2s] pues si los datos
+[3591.2s → 3592.4s] y en ese momento
+[3592.4s → 3594.7s] tras
+[3594.7s → 3595.0s] a ver
+[3595.0s → 3595.3s] eran
+[3595.3s → 3595.6s] uno
+[3595.6s → 3595.8s] dos
+[3595.8s → 3596.1s] tres
+[3596.1s → 3596.3s] sí
+[3596.3s → 3597.9s] tras tres años
+[3597.9s → 3598.6s] yo había estado
+[3598.6s → 3599.9s] el primero y segundo año
+[3599.9s → 3601.0s] a cargo prácticamente
+[3601.0s → 3601.4s] de
+[3601.4s → 3602.9s] de todas las decisiones
+[3602.9s → 3603.8s] en el tercer año
+[3603.8s → 3604.6s] justamente
+[3604.6s → 3605.6s] el otro fundador
+[3605.6s → 3606.4s] fue quien pasó
+[3606.4s → 3607.5s] a tomar las decisiones
+[3607.5s → 3608.7s] entonces yo dejé
+[3608.7s → 3609.6s] también que decida
+[3609.6s → 3609.8s] o sea
+[3609.8s → 3610.6s] es parte también
+[3610.6s → 3610.9s] de
+[3610.9s → 3612.1s] de lo que es tener
+[3612.1s → 3613.2s] un emprendimiento
+[3613.2s → 3613.7s] una empresa
+[3613.7s → 3614.7s] entonces dejé que decida
+[3614.7s → 3615.5s] y claro
+[3615.5s → 3616.2s] él con datos
+[3616.2s → 3617.0s] era una persona
+[3617.0s → 3617.7s] mucho más
+[3617.7s → 3618.8s] financiera
+[3618.8s → 3619.8s] y claro
+[3619.8s → 3620.5s] yo los datos
+[3620.5s → 3621.1s] dije pues
+[3621.1s → 3622.0s] los datos
+[3622.0s → 3622.5s] han de estar
+[3622.5s → 3623.1s] en lo correcto
+[3623.1s → 3623.7s] pero tenía
+[3623.7s → 3624.5s] esa sensación
+[3624.5s → 3626.1s] más hacia un aspecto
+[3626.1s → 3626.8s] de innovación
+[3626.8s → 3627.7s] y de esa percepción
+[3627.7s → 3628.3s] de por qué
+[3628.3s → 3629.7s] porque la señora
+[3629.7s → 3630.6s] o la madre de familia
+[3630.6s → 3631.2s] me dijo eso
+[3631.2s → 3632.8s] y pues lamentablemente
+[3632.8s → 3633.8s] no hicimos caso
+[3633.8s → 3634.8s] y a los
+[3634.8s → 3635.1s] tres
+[3635.1s → 3635.8s] cuatro meses
+[3635.8s → 3637.1s] pues de repente
+[3637.1s → 3638.3s] comenzaron a
+[3638.3s → 3638.9s] cancelar
+[3638.9s → 3639.7s] suscripciones
+[3639.7s → 3641.8s] los niños
+[3641.8s → 3642.4s] comenzaron
+[3642.4s → 3643.9s] a ya no asistir
+[3643.9s → 3644.7s] los padres
+[3644.7s → 3645.3s] comenzaron
+[3645.3s → 3645.6s] ya
+[3645.6s → 3646.3s] a no
+[3646.3s → 3647.7s] a no tomar
+[3647.7s → 3648.9s] los cursos
+[3648.9s → 3649.6s] no responder
+[3649.6s → 3650.2s] los mensajes
+[3650.2s → 3651.7s] comenzamos a perder
+[3651.7s → 3652.7s] también profesores
+[3652.7s → 3653.5s] que ya comenzaron
+[3653.5s → 3654.1s] a las actividades
+[3654.1s → 3654.7s] presenciales
+[3654.7s → 3654.9s] también
+[3654.9s → 3656.1s] y ya no tenían
+[3656.1s → 3656.5s] tiempo
+[3656.5s → 3657.6s] entonces todo
+[3657.6s → 3658.2s] fue como
+[3658.2s → 3659.6s] en caída
+[3659.6s → 3660.8s] a los seis meses
+[3660.8s → 3662.4s] nos tocó cerrar
+[3662.4s → 3663.2s] fue tal
+[3663.2s → 3663.8s] el impacto
+[3663.8s → 3664.2s] porque
+[3664.2s → 3665.4s] porque claro
+[3665.4s → 3666.5s] sin niños
+[3666.5s → 3668.8s] no sirve de nada
+[3668.8s → 3669.9s] la idea
+[3669.9s → 3670.4s] o sea la idea
+[3670.4s → 3671.0s] queda en eso
+[3671.0s → 3672.3s] y a los seis meses
+[3672.3s → 3673.3s] después de esa
+[3673.3s → 3674.3s] reunión que tuvimos
+[3674.3s → 3675.1s] a los seis meses
+[3675.1s → 3676.1s] pues tuvimos que
+[3676.1s → 3677.5s] cerrar totalmente
+[3677.5s → 3678.2s] operaciones
+[3678.2s → 3679.2s] por ahí
+[3679.2s → 3680.7s] lo reformulamos
+[3680.7s → 3681.5s] sacamos
+[3681.5s → 3683.4s] una versión
+[3683.4s → 3683.8s] dos
+[3683.8s → 3684.8s] que era más
+[3684.8s → 3685.8s] enfocada en jóvenes
+[3685.8s → 3687.0s] que tenía
+[3687.0s → 3687.7s] que ya tenía
+[3687.7s → 3688.8s] una imagen distinta
+[3688.8s → 3690.2s] enfocado ya
+[3690.2s → 3690.8s] en
+[3690.8s → 3691.8s] netamente
+[3691.8s → 3692.6s] en idiomas
+[3692.6s → 3693.8s] en asesorías
+[3693.8s → 3694.4s] de tutores
+[3694.4s → 3695.7s] nos fue bien
+[3695.7s → 3696.5s] durante un tiempo
+[3696.5s → 3698.2s] logramos recuperar
+[3698.2s → 3699.1s] cuatro profesores
+[3699.1s → 3699.7s] de los 22
+[3699.7s → 3700.2s] que tuvimos
+[3700.2s → 3700.6s] que estaban
+[3700.6s → 3701.3s] con jóvenes
+[3701.3s → 3702.7s] pero luego
+[3702.7s → 3703.2s] otra vez
+[3703.2s → 3703.7s] no logró
+[3703.7s → 3705.0s] alzar
+[3705.0s → 3706.2s] tampoco
+[3706.2s → 3708.2s] mucho vuelo
+[3708.2s → 3708.6s] los jóvenes
+[3708.6s → 3709.0s] igual
+[3709.0s → 3710.0s] fueron como
+[3710.0s → 3710.6s] los últimos
+[3710.6s → 3711.1s] en salir
+[3711.1s → 3711.7s] los que aún
+[3711.7s → 3712.6s] utilizaban
+[3712.6s → 3713.7s] pero igual
+[3713.7s → 3714.1s] al final
+[3714.1s → 3714.7s] no había
+[3714.7s → 3716.5s] un mercado
+[3716.5s → 3717.5s] tan
+[3717.5s → 3718.4s] apegado
+[3718.4s → 3719.1s] hacia la educación
+[3719.1s → 3719.5s] virtual
+[3719.5s → 3720.1s] para niños
+[3720.1s → 3721.1s] y para jóvenes
+[3721.1s → 3722.4s] entonces
+[3722.4s → 3723.2s] eso
+[3723.2s → 3723.9s] de lo que
+[3723.9s → 3724.5s] les puedo
+[3724.5s → 3725.5s] comentar
+[3725.5s → 3725.7s] no sé
+[3725.7s → 3726.1s] si tienen
+[3726.1s → 3726.4s] dudas
+[3726.4s → 3727.2s] o preguntas
+[3727.2s → 3739.8s] Laura
+[3739.8s → 3743.0s] docente
+[3743.0s → 3743.7s] buenas noches
+[3743.7s → 3744.2s] disculpe
+[3744.2s → 3744.9s] que le moleste
+[3744.9s → 3745.6s] y le interrumpo
+[3745.6s → 3746.4s] sabes que yo tuve
+[3746.4s → 3747.1s] hace un momento
+[3747.1s → 3748.0s] una videocolaboración
+[3748.0s → 3749.2s] no pude estar presente
+[3749.2s → 3750.5s] en toda la clase
+[3750.5s → 3750.8s] pero
+[3750.8s → 3751.6s] escuché
+[3751.6s → 3752.7s] la última parte
+[3752.7s → 3754.6s] que estaba
+[3754.6s → 3755.1s] indicando
+[3755.1s → 3755.7s] sobre
+[3755.7s → 3756.8s] la plata
+[3756.8s → 3757.3s] el
+[3757.3s → 3758.5s] cómo elaborar
+[3758.5s → 3759.6s] el portafolio
+[3759.6s → 3761.5s] en Word
+[3761.5s → 3762.6s] veía la plantilla
+[3762.6s → 3763.2s] pero no sé
+[3763.2s → 3764.4s] dónde localizarle
+[3764.4s → 3766.4s] en anuncios
+[3766.4s → 3767.6s] en anuncios
+[3767.6s → 3768.1s] el anuncio
+[3768.1s → 3769.1s] que les envié
+[3769.1s → 3769.8s] me parece que
+[3769.8s → 3770.4s] hoy en la mañana
+[3770.4s → 3771.5s] en el anuncio
+[3771.5s → 3773.3s] está el documento
+[3773.3s → 3773.7s] anclado
+[3773.7s → 3774.8s] por eso les digo
+[3774.8s → 3775.8s] siempre revisen
+[3775.8s → 3777.3s] los anuncios
+[3777.3s → 3778.1s] del día
+[3778.1s → 3779.7s] de hoy
+[3779.7s → 3780.2s] porque
+[3780.2s → 3781.1s] tengo
+[3781.1s → 3782.1s] que hoy es
+[3782.1s → 3783.8s] solo tengo
+[3783.8s → 3784.6s] del 26
+[3784.6s → 3785.0s] que sería
+[3785.0s → 3785.8s] el día de ayer
+[3785.8s → 3787.5s] a las 11 y 28
+[3787.5s → 3788.4s] pero ahí
+[3788.4s → 3789.0s] me sale
+[3789.0s → 3790.3s] me dice
+[3790.3s → 3791.0s] que empezamos
+[3791.0s → 3792.1s] el portafolio
+[3792.1s → 3794.4s] y tenemos
+[3794.4s → 3795.5s] las tres fases
+[3795.5s → 3797.0s] el desafío 1
+[3797.0s → 3797.9s] desafío 2
+[3797.9s → 3798.9s] y desafío 3
+[3798.9s → 3799.6s] entonces
+[3799.6s → 3800.8s] no sé si
+[3800.8s → 3801.2s] abajo
+[3801.2s → 3801.5s] abajo
+[3801.5s → 3802.8s] en materiales
+[3802.8s → 3803.5s] compartidos
+[3803.5s → 3805.2s] allá
+[3805.2s → 3807.8s] ya le localizó
+[3807.8s → 3808.1s] ¿verdad?
+[3809.4s → 3810.5s] déjeme revisarle
+[3810.5s → 3811.2s] por favor
+[3811.2s → 3813.2s] bueno igual
+[3813.2s → 3813.9s] para que vean
+[3813.9s → 3814.4s] todos
+[3814.4s → 3815.6s] les comparto
+[3815.6s → 3816.4s] rápidamente
+[3816.4s → 3817.2s] entonces
+[3817.2s → 3818.1s] este es el anuncio
+[3818.1s → 3819.5s] que les compartí
+[3819.5s → 3820.1s] porque ya estamos
+[3820.1s → 3821.0s] 27 si hay
+[3821.0s → 3822.2s] entonces aquí
+[3822.2s → 3823.2s] tienen la información
+[3823.2s → 3825.0s] los tres
+[3825.0s → 3826.1s] posibles desafíos
+[3826.1s → 3827.0s] que pueden tomar
+[3827.0s → 3828.2s] luego
+[3828.2s → 3829.3s] tienen
+[3829.3s → 3830.8s] la primera fase
+[3830.8s → 3831.6s] de empatizar
+[3831.6s → 3833.1s] y acá está
+[3833.1s → 3833.8s] formato de
+[3833.8s → 3834.4s] portafolio
+[3834.4s → 3835.1s] emprendedor
+[3835.1s → 3837.1s] muchísimas gracias
+[3837.1s → 3838.6s] ya lo encontré
+[3838.6s → 3839.4s] ya
+[3839.4s → 3840.2s] no hay problema
+[3840.2s → 3841.8s] entonces bueno
+[3841.8s → 3843.3s] volvamos rápidamente
+[3843.3s → 3844.6s] para ir cerrando
+[3844.6s → 3845.6s] lo que ha sido
+[3845.6s → 3846.2s] ay
+[3846.2s → 3847.7s] me volví a la
+[3847.7s → 3850.7s] me volví al otro
+[3850.7s → 3851.9s] ¿dónde está?
+[3852.5s → 3852.7s] aquí
+[3852.7s → 3855.0s] entonces bueno
+[3855.0s → 3855.8s] como cierra
+[3855.8s → 3856.4s] de lo que hemos
+[3856.4s → 3857.1s] revisado hoy
+[3857.1s → 3857.7s] entendamos que
+[3857.7s → 3858.5s] el design thinking
+[3858.5s → 3859.1s] lo que hace
+[3859.1s → 3859.6s] es conectar
+[3859.6s → 3860.2s] personas
+[3860.2s → 3861.2s] problemas
+[3861.2s → 3862.5s] y creatividad
+[3862.5s → 3863.4s] justamente
+[3863.4s → 3864.4s] personas que son
+[3864.4s → 3864.9s] los usuarios
+[3864.9s → 3866.0s] problemas que son
+[3866.0s → 3866.6s] los que encontramos
+[3866.6s → 3867.4s] en el entorno
+[3867.4s → 3868.6s] y la creatividad
+[3868.6s → 3869.1s] que tenemos
+[3869.1s → 3869.7s] cada uno
+[3869.7s → 3870.8s] luego entendamos
+[3870.8s → 3871.4s] que empatizar
+[3871.4s → 3871.9s] es la base
+[3871.9s → 3872.2s] de todo
+[3872.2s → 3872.9s] y de innovadora
+[3872.9s → 3874.0s] la innovación
+[3874.0s → 3874.4s] como tal
+[3874.4s → 3875.1s] es un proceso
+[3875.1s → 3875.9s] no un momento
+[3875.9s → 3876.6s] es algo que
+[3876.6s → 3877.0s] debemos ir
+[3877.0s → 3877.8s] trabajando diario
+[3877.8s → 3879.0s] y que el trabajo
+[3879.0s → 3879.9s] colaborativo
+[3879.9s → 3881.2s] potencia los resultados
+[3881.2s → 3882.0s] si es que
+[3882.0s → 3882.6s] algún momento
+[3882.6s → 3883.8s] lo van a aplicar
+[3883.8s → 3884.4s] la metodología
+[3884.4s → 3884.7s] de design
+[3884.7s → 3885.7s] en sus negocios
+[3885.7s → 3886.7s] en un proyecto
+[3886.7s → 3887.9s] en algo propio
+[3887.9s → 3889.0s] siempre traten
+[3889.0s → 3889.6s] de tener
+[3889.6s → 3890.6s] otras visiones
+[3890.6s → 3891.2s] no solamente
+[3891.2s → 3891.8s] su visión
+[3891.8s → 3892.9s] si son del área
+[3892.9s → 3893.5s] de derecho
+[3893.5s → 3894.2s] de turismo
+[3894.2s → 3895.3s] de medicina
+[3895.3s → 3896.2s] de contabilidad
+[3896.2s → 3896.8s] de administración
+[3896.8s → 3897.2s] de empresas
+[3897.2s → 3898.6s] siempre traten
+[3898.6s → 3899.1s] de tener
+[3899.1s → 3900.2s] una contraparte
+[3900.2s → 3901.1s] sea alguien
+[3901.1s → 3902.5s] de alguna otra disciplina
+[3902.5s → 3902.9s] sea alguien
+[3902.9s → 3903.3s] que piense
+[3903.3s → 3903.7s] diferente
+[3903.7s → 3904.1s] ustedes
+[3904.1s → 3905.2s] para que logren
+[3905.2s → 3906.1s] tener ese trabajo
+[3906.1s → 3907.1s] colaborativo
+[3907.1s → 3908.4s] entonces
+[3908.4s → 3909.4s] dicho eso
+[3909.4s → 3911.0s] les agradezco
+[3911.0s → 3911.8s] por esta noche
+[3911.8s → 3912.8s] su permanencia
+[3912.8s → 3913.8s] y bueno
+[3913.8s → 3914.6s] abro un espacio
+[3914.6s → 3915.5s] para dudas
+[3915.5s → 3916.2s] o preguntas
+[3916.2s → 3917.8s] que tengan
+[3917.8s → 3922.0s] que estoy otra vez
+[3922.0s → 3923.2s] si Laura
+[3923.2s → 3924.9s] hay una
+[3924.9s → 3925.4s] que dice
+[3925.4s → 3926.8s] video colaboración
+[3926.8s → 3927.9s] esa la vamos
+[3927.9s → 3928.9s] a ejecutar
+[3928.9s → 3929.3s] cuando
+[3929.3s → 3931.2s] si la video
+[3931.2s → 3931.9s] colaboración
+[3931.9s → 3932.4s] y muy buena
+[3932.4s → 3932.8s] pregunta
+[3932.8s → 3933.2s] Laura
+[3933.2s → 3934.0s] está establecida
+[3934.0s → 3935.1s] para la semana
+[3935.1s → 3935.6s] 6
+[3935.6s → 3937.4s] estamos en la
+[3937.4s → 3937.8s] 4
+[3937.8s → 3939.2s] bueno
+[3939.2s → 3939.9s] ahí me tocará
+[3939.9s → 3941.2s] modificar
+[3941.2s → 3941.6s] fechas
+[3941.6s → 3942.1s] pero
+[3942.1s → 3942.9s] nos han pedido
+[3942.9s → 3943.2s] que sea
+[3943.2s → 3943.6s] la semana
+[3943.6s → 3943.9s] 6
+[3943.9s → 3944.6s] la semana
+[3944.6s → 3945.7s] entonces
+[3945.7s → 3946.2s] con ustedes
+[3946.2s → 3946.8s] tocaría
+[3946.8s → 3947.6s] el 10
+[3947.6s → 3949.1s] de noviembre
+[3949.1s → 3949.6s] si el 10
+[3949.6s → 3950.1s] de noviembre
+[3950.1s → 3950.5s] marzo
+[3950.5s → 3950.7s] y 10
+[3950.7s → 3951.2s] de noviembre
+[3951.2s → 3951.6s] a las 8
+[3951.6s → 3952.1s] de la noche
+[3952.1s → 3953.2s] sería la
+[3953.2s → 3954.2s] video colaboración
+[3954.2s → 3955.6s] y de ahí
+[3955.6s → 3957.0s] lo que sí
+[3957.0s → 3957.9s] y ya les voy a dejar
+[3957.9s → 3958.6s] en anuncios
+[3958.6s → 3959.2s] es que tenemos
+[3959.2s → 3960.0s] el bootcamp
+[3960.0s → 3961.1s] el bootcamp
+[3961.1s → 3961.5s] es
+[3961.5s → 3962.2s] en el caso
+[3962.2s → 3962.5s] de que ustedes
+[3962.5s → 3963.4s] no puedan asistir
+[3963.4s → 3963.9s] a la video
+[3963.9s → 3964.7s] colaboración
+[3964.7s → 3965.4s] supongamos
+[3965.4s → 3966.8s] podrían asistir
+[3966.8s → 3967.3s] al bootcamp
+[3967.3s → 3967.8s] que va a ser
+[3967.8s → 3968.9s] el sábado 14
+[3968.9s → 3970.6s] y me parece
+[3970.6s → 3972.1s] espérenme un segundo
+[3972.1s → 3972.9s] para decirles
+[3972.9s → 3973.4s] en qué ciudad
+[3973.4s → 3973.8s] es igual
+[3973.8s → 3974.5s] y esto les voy a dejar
+[3974.5s → 3975.2s] en un anuncio
+[3975.2s → 3977.0s] pero lo tenía
+[3977.0s → 3977.7s] por aquí
+[3977.7s → 3978.5s] en un mensaje
+[3978.5s → 3979.7s] entonces
+[3979.7s → 3980.7s] el bootcamp
+[3980.7s → 3981.9s] está programado
+[3981.9s → 3982.2s] uy
+[3982.2s → 3985.1s] dónde está
+[3985.1s → 3987.7s] espérenme un segundo
+[3987.7s → 3992.3s] está programado
+[3992.3s → 3992.9s] para
+[3992.9s → 3993.7s] el sábado
+[3993.7s → 3994.2s] 14
+[3994.2s → 3995.0s] de noviembre
+[3995.0s → 3995.7s] en el horario
+[3995.7s → 3996.3s] de la mañana
+[3996.3s → 3996.9s] de 9
+[3996.9s → 3997.4s] a 12
+[3997.4s → 3999.0s] y se va a llevar
+[3999.0s → 3999.6s] a cabo
+[3999.6s → 4000.9s] en azogues
+[4000.9s → 4001.9s] bueno
+[4001.9s → 4002.4s] en los centros
+[4002.4s → 4002.9s] UTPL
+[4002.9s → 4003.9s] que hay en azogues
+[4003.9s → 4005.1s] en loja
+[4005.1s → 4006.3s] en manta
+[4006.3s → 4007.4s] en tena
+[4007.4s → 4008.4s] y en quito
+[4008.4s → 4009.7s] entonces supongamos
+[4009.7s → 4010.1s] ustedes
+[4010.1s → 4011.3s] quieren asistir
+[4011.3s → 4012.5s] más bien presencialmente
+[4012.5s → 4014.0s] entonces pueden asistir
+[4014.0s → 4014.8s] presencialmente
+[4014.8s → 4016.3s] y no tendrían que asistir
+[4016.3s → 4018.6s] el martes 10
+[4018.6s → 4019.8s] supongamos
+[4019.8s → 4020.3s] yo vivo
+[4020.3s → 4021.7s] en manta
+[4021.7s → 4023.1s] entonces como vivo
+[4023.1s → 4023.6s] en manta
+[4023.6s → 4024.5s] y es sábado
+[4024.5s → 4025.3s] prefiero asistir
+[4025.3s → 4025.9s] al presencial
+[4025.9s → 4027.8s] justamente conocer
+[4027.8s → 4029.5s] al profe o profesora
+[4029.5s → 4030.0s] que vaya
+[4030.0s → 4031.3s] conocer a los compañeros
+[4031.3s → 4032.8s] vivir esta experiencia
+[4032.8s → 4033.4s] presencial
+[4033.4s → 4034.6s] me inscribo
+[4034.6s → 4035.5s] que ya les voy a mandar
+[4035.5s → 4036.4s] el formulario
+[4036.4s → 4037.1s] para que igual
+[4037.1s → 4038.3s] se inscriban
+[4038.3s → 4039.0s] en la información
+[4039.0s → 4040.5s] asisto el sábado
+[4040.5s → 4041.2s] entonces no tengo
+[4041.2s → 4041.6s] que asistir
+[4041.6s → 4042.8s] a la videocolaboración
+[4042.8s → 4043.4s] del martes
+[4043.4s → 4044.4s] qué pasa si
+[4044.4s → 4045.3s] no está en mi ciudad
+[4045.3s → 4045.9s] qué pasa si
+[4045.9s → 4046.6s] más bien vivo
+[4046.6s → 4047.2s] en Ibarra
+[4047.2s → 4048.7s] y se me hace
+[4048.7s → 4049.1s] difícil
+[4049.1s → 4050.1s] venir hasta Quito
+[4050.1s → 4051.3s] puedo asistir
+[4051.3s → 4052.0s] justamente
+[4052.0s → 4053.1s] el martes
+[4053.1s → 4054.9s] 10 a la videocolaboración
+[4054.9s → 4057.5s] en virtual
+[4057.5s → 4058.5s] que bueno
+[4058.5s → 4059.2s] más que todo
+[4059.2s → 4059.8s] trabajaremos
+[4059.8s → 4060.7s] condensada
+[4060.7s → 4061.4s] la información
+[4061.4s → 4063.0s] y en el caso
+[4063.0s → 4063.8s] de que no pueda
+[4063.8s → 4064.8s] estar el martes
+[4064.8s → 4066.0s] para los que revisan
+[4066.0s → 4066.4s] la grabación
+[4066.4s → 4067.0s] no puede estar
+[4067.0s → 4067.5s] el martes
+[4067.5s → 4068.4s] 10 no es no noviembre
+[4068.4s → 4069.3s] no puedo asistir
+[4069.3s → 4070.3s] el 14 de noviembre
+[4070.3s → 4070.8s] sábado
+[4070.8s → 4071.8s] pues tendrán
+[4071.8s → 4073.0s] actividad suplementaria
+[4073.0s → 4073.9s] entonces tienen
+[4073.9s → 4074.8s] esas tres formas
+[4074.8s → 4075.8s] de tener esta nota
+[4075.8s → 4077.4s] la videocolaboración
+[4077.4s → 4078.1s] si asistes
+[4078.1s → 4078.8s] en virtual
+[4078.8s → 4079.9s] el martes 10
+[4079.9s → 4080.9s] si es que quieres
+[4080.9s → 4082.3s] asistir en presencial
+[4082.3s → 4083.7s] el sábado 14
+[4083.7s → 4084.6s] y si no
+[4084.6s → 4085.1s] la actividad
+[4085.1s → 4086.1s] suplementar
+[4086.1s → 4087.4s] eso Laura
+[4087.4s → 4095.7s] para los
+[4095.7s → 4097.5s] para
+[4097.5s → 4098.8s] Quito
+[4098.8s → 4099.4s] Asogue
+[4099.4s → 4100.1s] Floja
+[4100.1s → 4100.7s] Manta
+[4100.7s → 4101.2s] y Tena
+[4101.2s → 4102.3s] va a ser
+[4102.3s → 4103.1s] el mismo día
+[4103.1s → 4104.1s] sábado 14
+[4104.1s → 4113.6s] ya
+[4113.6s → 4115.4s] y lo que van a realizar
+[4115.4s → 4116.4s] en el portafolio
+[4116.4s → 4117.6s] tiene que ir
+[4117.6s → 4118.1s] basado
+[4118.1s → 4119.9s] en lo que es
+[4119.9s → 4120.6s] justamente
+[4120.6s → 4122.1s] los tres desafíos
+[4122.1s → 4123.0s] entonces cuando
+[4123.0s → 4123.6s] ustedes van
+[4123.6s → 4124.3s] al anuncio
+[4124.3s → 4125.6s] espérenme
+[4125.6s → 4126.2s] les vuelvo
+[4126.2s → 4126.8s] a compartir
+[4126.8s → 4127.8s] el anuncio
+[4127.8s → 4128.6s] vamos acá
+[4128.6s → 4130.9s] vamos aquí
+[4130.9s → 4131.8s] vamos acá
+[4131.8s → 4132.7s] aquí
+[4132.7s → 4134.5s] aquí
+[4134.5s → 4137.5s] entonces cuando
+[4137.5s → 4138.4s] vamos al anuncio
+[4138.4s → 4140.3s] espérenme
+[4140.3s → 4140.9s] un momentito
+[4140.9s → 4141.4s] cuando vamos
+[4141.4s → 4142.0s] al anuncio
+[4142.0s → 4142.3s] aquí
+[4142.3s → 4143.4s] tenemos estos
+[4143.4s → 4144.4s] tres desafíos
+[4144.4s → 4145.0s] entonces
+[4145.0s → 4145.8s] el desafío
+[4145.8s → 4146.0s] uno
+[4146.0s → 4146.6s] vivir con
+[4146.6s → 4146.7s] ya
+[4146.7s → 4147.2s] el desafío
+[4147.2s → 4147.5s] dos
+[4147.5s → 4148.0s] vivir mejor
+[4148.0s → 4148.6s] y el desafío
+[4148.6s → 4148.8s] tres
+[4148.8s → 4149.3s] vivir con
+[4149.3s → 4150.0s] menos impacto
+[4150.0s → 4151.0s] ustedes tienen
+[4151.0s → 4151.6s] anclado aquí
+[4151.6s → 4152.2s] unos pdf
+[4152.2s → 4153.4s] entonces
+[4153.4s → 4154.1s] hablan estos
+[4154.1s → 4154.5s] porque
+[4154.5s → 4155.9s] el emprendimiento
+[4155.9s → 4156.3s] la idea
+[4156.3s → 4157.4s] que van a desarrollar
+[4157.4s → 4158.3s] tiene que ir
+[4158.3s → 4159.3s] enfocado en esto
+[4159.3s → 4160.1s] no
+[4160.1s → 4160.8s] por decirlo así
+[4160.8s → 4161.3s] yo no puedo
+[4161.3s → 4161.8s] escoger el día
+[4161.8s → 4162.3s] de mañana
+[4162.3s → 4162.9s] es que yo
+[4162.9s → 4163.6s] quiero hacer
+[4163.6s → 4164.6s] algo de
+[4164.6s → 4166.7s] supongamos
+[4166.7s → 4167.0s] de
+[4167.0s → 4169.2s] mi invento
+[4169.2s → 4169.8s] algo de
+[4169.8s → 4170.8s] petróleo
+[4170.8s → 4172.1s] entonces
+[4172.1s → 4173.4s] tocaría revisar
+[4173.4s → 4174.3s] si el petróleo
+[4174.3s → 4174.9s] tiene que ver
+[4174.9s → 4175.3s] algo con
+[4175.3s → 4175.8s] vivir con
+[4175.8s → 4176.1s] ya
+[4176.1s → 4177.5s] vivir mejor
+[4177.5s → 4177.8s] o vivir
+[4177.8s → 4178.3s] con menos
+[4178.3s → 4178.7s] impacto
+[4178.7s → 4179.0s] al final
+[4179.0s → 4179.5s] me doy cuenta
+[4179.5s → 4179.8s] que
+[4179.8s → 4181.1s] si quiero sacar
+[4181.1s → 4181.6s] un nuevo
+[4181.6s → 4182.4s] hidrocarbur
+[4182.4s → 4183.5s] que es
+[4183.5s → 4184.6s] lo que yo
+[4184.6s → 4185.5s] quiero desarrollar
+[4185.5s → 4186.0s] al final
+[4186.0s → 4186.5s] no está
+[4186.5s → 4186.8s] dentro
+[4186.8s → 4187.1s] de estos
+[4187.1s → 4188.0s] tres desafíos
+[4188.0s → 4188.6s] entonces
+[4188.6s → 4189.2s] tengan en cuenta
+[4189.2s → 4189.8s] que lo que
+[4189.8s → 4190.6s] vayan a desarrollar
+[4190.6s → 4191.9s] esté basado
+[4191.9s → 4192.3s] en algunos
+[4192.3s → 4192.6s] de estos
+[4192.6s → 4193.3s] desafíos
+[4193.3s → 4193.8s] entonces
+[4193.8s → 4194.0s] ahí sí
+[4194.0s → 4195.1s] les invito
+[4195.1s → 4196.3s] a revisar
+[4196.3s → 4196.7s] la información
+[4196.7s → 4198.1s] que está
+[4198.1s → 4199.2s] en anuncios
+[4199.2s → 4200.7s] para salinas
+[4200.7s → 4201.4s] no hay
+[4201.4s → 4202.0s] y para
+[4202.0s → 4202.5s] cuenca
+[4202.5s → 4203.6s] lastimosamente
+[4203.6s → 4204.5s] tampoco hay
+[4204.5s → 4205.5s] erica
+[4205.5s → 4206.7s] y don
+[4206.7s → 4207.6s] que preguntar
+[4207.6s → 4208.8s] para las ciudades
+[4208.8s → 4209.2s] que les dije
+[4209.2s → 4209.8s] como les dije
+[4209.8s → 4210.3s] está
+[4210.3s → 4211.7s] azogues
+[4211.7s → 4212.2s] loja
+[4212.2s → 4212.9s] manta
+[4212.9s → 4213.3s] tena
+[4213.3s → 4213.8s] y quito
+[4213.8s → 4215.0s] esta ocasión
+[4215.0s → 4215.7s] se suelen
+[4215.7s → 4216.1s] cambiar
+[4216.1s → 4216.7s] de ciudades
+[4216.7s → 4217.5s] dependiendo
+[4217.5s → 4218.7s] como
+[4218.7s → 4219.5s] como lo
+[4219.5s → 4220.2s] lo vendes
+[4220.2s → 4220.6s] de loja
+[4220.6s → 4221.8s] pero en esta ocasión
+[4221.8s → 4222.6s] es como les digo
+[4222.6s → 4223.2s] azogues
+[4223.2s → 4224.5s] azogues
+[4224.5s → 4224.9s] loja
+[4224.9s → 4225.7s] manta
+[4225.7s → 4226.6s] quito
+[4226.6s → 4230.2s] y tena
+[4230.2s → 4230.5s] sí
+[4230.5s → 4231.0s] ni
+[4231.0s → 4232.1s] para
+[4232.1s → 4233.5s] videocolaboración
+[4233.5s → 4234.7s] ya les he de
+[4234.7s → 4235.4s] comentar
+[4235.4s → 4236.2s] que es lo que
+[4236.2s → 4236.7s] vamos a
+[4236.7s → 4237.2s] hacer
+[4237.2s → 4237.4s] en la
+[4237.4s → 4238.3s] videocolaboración
+[4238.3s → 4239.2s] y el
+[4239.2s → 4239.6s] bootcamp
+[4239.6s → 4240.1s] más que todo
+[4240.1s → 4240.8s] es asistir
+[4240.8s → 4241.5s] y participar
+[4241.5s → 4242.0s] eso sí
+[4242.0s → 4242.4s] no
+[4242.4s → 4243.2s] no es
+[4243.2s → 4243.7s] asistir
+[4243.7s → 4244.8s] y estar
+[4244.8s → 4245.1s] quieto
+[4245.1s → 4245.7s] como estatua
+[4245.7s → 4246.2s] sino que
+[4246.2s → 4246.8s] muchas veces
+[4246.8s → 4247.3s] se suelen
+[4247.3s → 4247.7s] hacer
+[4247.7s → 4248.7s] justamente
+[4248.7s → 4249.6s] actividades
+[4249.6s → 4253.3s] Ernesto
+[4253.3s → 4257.4s] bueno yo había
+[4257.4s → 4258.0s] escrito algo
+[4258.0s → 4258.7s] pero no sé
+[4258.7s → 4260.2s] en algunas
+[4260.2s → 4260.7s] ocasiones
+[4260.7s → 4261.3s] se realizaron
+[4261.3s → 4261.8s] actividades
+[4261.8s → 4263.9s] es posible
+[4263.9s → 4264.7s] que se la haga
+[4264.7s → 4265.2s] híbrida
+[4265.2s → 4265.7s] en el tema
+[4265.7s → 4266.1s] del bootcamp
+[4266.1s → 4268.9s] en el tema
+[4268.9s → 4269.1s] de
+[4269.1s → 4269.9s] disculpa
+[4269.9s → 4271.4s] del bootcamp
+[4271.4s → 4273.4s] y
+[4273.4s → 4276.3s] difícilmente
+[4276.3s → 4276.9s] se puede
+[4276.9s → 4277.2s] hacer
+[4277.2s → 4277.7s] híbrido
+[4277.7s → 4279.0s] el bootcamp
+[4279.0s → 4279.6s] requiere
+[4279.6s → 4280.0s] el tema
+[4280.0s → 4280.9s] tecnológico
+[4280.9s → 4281.6s] tocaría
+[4281.6s → 4282.8s] consultar
+[4282.8s → 4283.2s] con todo
+[4283.2s → 4283.6s] lo voy
+[4283.6s → 4284.2s] a consultar
+[4284.2s → 4284.5s] con la
+[4284.5s → 4285.0s] coordinación
+[4285.0s → 4285.3s] de la
+[4285.3s → 4285.6s] carrera
+[4285.6s → 4285.9s] pero
+[4285.9s → 4286.2s] como
+[4286.2s → 4286.4s] en la
+[4286.4s → 4287.4s] videocolaboración
+[4287.4s → 4287.8s] lo vemos
+[4287.8s → 4288.6s] condensado
+[4288.6s → 4289.8s] más que todo
+[4289.8s → 4290.4s] se trata
+[4290.4s → 4291.2s] y que
+[4291.2s → 4291.8s] el bootcamp
+[4291.8s → 4292.3s] sea un
+[4292.3s → 4292.6s] espacio
+[4292.6s → 4293.3s] presencial
+[4293.3s → 4294.1s] que ustedes
+[4294.1s → 4294.6s] también puedan
+[4294.6s → 4295.4s] conocerse
+[4295.4s → 4295.8s] compartir
+[4295.8s → 4296.2s] con los
+[4296.2s → 4297.0s] compañeros
+[4297.0s → 4298.1s] y justamente
+[4298.1s → 4299.3s] desarrollando
+[4299.3s → 4299.9s] estas actividades
+[4299.9s → 4300.8s] en presencial
+[4300.8s → 4303.8s] respecto
+[4303.8s → 4304.4s] de petróleo
+[4304.4s → 4305.0s] si se puede
+[4305.0s → 4305.3s] algo
+[4305.3s → 4305.6s] hacer
+[4305.6s → 4306.0s] se puede
+[4306.0s → 4306.3s] hacer
+[4306.3s → 4306.5s] algún
+[4306.5s → 4307.4s] ah claro
+[4307.4s → 4308.1s] podría ser
+[4308.1s → 4308.5s] en el
+[4308.5s → 4308.9s] contexto
+[4308.9s → 4309.4s] de
+[4309.4s → 4310.2s] vivir
+[4310.2s → 4310.6s] mejor
+[4310.6s → 4311.2s] supongamos
+[4311.2s → 4311.5s] voy a
+[4311.5s → 4311.7s] sacar
+[4311.7s → 4312.8s] un hidrocarburo
+[4312.8s → 4313.8s] de bajo
+[4313.8s → 4314.3s] impacto
+[4314.3s → 4314.9s] y quiero
+[4314.9s → 4315.5s] desarrollar
+[4315.5s → 4315.7s] si
+[4315.7s → 4315.9s] puede
+[4315.9s → 4316.7s] era
+[4316.7s → 4318.3s] difícil
+[4318.3s → 4319.5s] encontrar
+[4319.5s → 4320.0s] el ejemplo
+[4320.0s → 4320.5s] pero
+[4320.5s → 4321.5s] ya le
+[4321.5s → 4323.3s] encontraré
+[4323.3s → 4323.4s] uno
+[4323.4s → 4323.8s] mejor
+[4323.8s → 4324.4s] pero
+[4324.4s → 4325.2s] tiene que ir
+[4325.2s → 4325.6s] encasillado
+[4325.6s → 4327.4s] un sistema
+[4327.4s → 4328.1s] para utilizar
+[4328.1s → 4328.6s] el gas
+[4328.6s → 4329.7s] que se llama
+[4329.7s → 4330.3s] y se lo envía
+[4330.3s → 4330.9s] al ambiente
+[4330.9s → 4332.6s] en la chimenea
+[4332.6s → 4335.7s] claro
+[4335.7s → 4336.3s] si si si
+[4336.3s → 4337.0s] muy buena idea
+[4337.0s → 4337.6s] y puede ser
+[4337.6s → 4338.0s] justamente
+[4338.0s → 4338.5s] para vivir
+[4338.5s → 4339.0s] mejor
+[4339.0s → 4342.3s] listo
+[4342.3s → 4342.6s] entonces
+[4342.6s → 4343.2s] hay dos
+[4343.2s → 4343.6s] preguntas
+[4343.6s → 4344.2s] adicionales
+[4344.2s → 4344.7s] que veo
+[4344.7s → 4345.2s] Marjo
+[4345.2s → 4345.9s] y Alexa
+[4345.9s → 4346.6s] en que
+[4346.6s → 4347.0s] consiste
+[4347.0s → 4347.8s] el bootcamp
+[4347.8s → 4348.5s] en que
+[4348.5s → 4349.0s] consiste
+[4349.0s → 4350.0s] la videocolaboración
+[4350.0s → 4350.8s] eso ya
+[4350.8s → 4351.3s] les estaré
+[4351.3s → 4352.0s] comentando
+[4352.0s → 4352.5s] más
+[4352.5s → 4353.2s] adelante
+[4353.2s → 4354.3s] entonces
+[4354.3s → 4354.8s] eso ya
+[4354.8s → 4355.3s] les estaré
+[4355.3s → 4355.8s] informando
+[4355.8s → 4356.2s] igual
+[4356.2s → 4358.0s] tranquilos
+[4358.0s → 4358.3s] también
+[4358.3s → 4358.5s] porque
+[4358.5s → 4359.0s] estamos en la
+[4359.0s → 4359.3s] semana
+[4359.3s → 4359.7s] 4
+[4359.7s → 4360.3s] y es en
+[4360.3s → 4360.7s] las 6
+[4360.7s → 4360.9s] o sea
+[4360.9s → 4361.3s] nos falta
+[4361.3s → 4361.8s] la 5
+[4361.8s → 4362.4s] la siguiente
+[4362.4s → 4363.4s] que vamos
+[4363.4s → 4363.6s] a ver
+[4363.6s → 4364.2s] la herramienta
+[4364.2s → 4364.5s] el mapa
+[4364.5s → 4365.1s] de empatía
+[4365.1s → 4366.0s] y luego
+[4366.0s → 4366.4s] las 6
+[4366.4s → 4367.0s] entonces
+[4367.0s → 4368.9s] ya les estaré
+[4368.9s → 4369.4s] comentando
+[4369.4s → 4370.2s] en qué
+[4370.2s → 4370.6s] consiste
+[4370.6s → 4371.9s] la videocolaboración
+[4371.9s → 4372.7s] y luego
+[4372.7s → 4373.1s] bueno
+[4373.1s → 4373.6s] qué es lo que
+[4373.6s → 4374.1s] van a ver
+[4374.1s → 4374.7s] en el boot
+[4374.7s → 4375.9s] eso
+[4375.9s → 4376.6s] eso de mi
+[4376.6s → 4376.9s] parte
+[4376.9s → 4378.4s] si no tienen
+[4378.4s → 4379.2s] más preguntas
+[4379.2s → 4379.9s] dudas
+[4379.9s → 4381.2s] nos estaríamos
+[4381.2s → 4381.5s] viendo
+[4381.5s → 4381.9s] la
+[4381.9s → 4382.9s] la siguiente
+[4382.9s → 4383.3s] semana
+[4383.3s → 4384.4s] les agradezco
+[4384.4s → 4384.8s] justamente
+[4384.8s → 4385.4s] por
+[4385.4s → 4386.1s] permanecer
+[4386.1s → 4386.8s] conectados
+[4386.8s → 4387.8s] y bueno
+[4387.8s → 4388.4s] les invito
+[4388.4s → 4388.9s] a revisar
+[4388.9s → 4389.3s] justamente
+[4389.3s → 4390.0s] los anuncios
+[4390.0s → 4390.4s] que siempre
+[4390.4s → 4390.7s] se les
+[4390.7s → 4391.2s] comparte
+[4391.2s → 4392.1s] y si
+[4392.1s → 4392.4s] tienen
+[4392.4s → 4392.8s] dudas
+[4392.8s → 4393.4s] adicionales
+[4393.4s → 4393.7s] igual
+[4393.7s → 4394.1s] están
+[4394.1s → 4394.7s] sus
+[4394.7s → 4395.8s] docentes
+[4395.8s → 4396.7s] de acompañamiento
+[4396.7s → 4397.1s] para
+[4397.1s → 4398.1s] responder
+[4398.1s → 4398.6s] por
+[4398.6s → 4399.5s] mensajes
+[4399.5s → 4400.3s] de leo
+[4400.3s → 4400.7s] que tengan
+[4400.7s → 4401.1s] una
+[4401.1s → 4402.1s] buena noche
+[4402.1s → 4405.6s] gracias
+[4405.6s → 4406.6s] gracias
+[4406.6s → 4408.1s] hasta luego
+[4408.1s → 4408.8s] ingeniero
