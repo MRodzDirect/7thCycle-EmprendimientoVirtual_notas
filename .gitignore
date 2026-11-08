@@ -1,3 +1,19 @@
 # Ignore transcript files and directories regardless of capitalization
 **/*[Tt][Rr][Aa][Nn][Ss][Cc][Rr][Ii][Pp][Tt]*
 *.mp4
+*.mp3
+videos/
+audios/
+videos
+audios
+/videos
+/audios
+archive/
+/archive
+archive
+Resultados/
+Resultados
+/Resultados
+/Resultado
+Resultado/
+Resultado
