@@ -1,0 +1,43 @@
+Transcription of: Emp_Entrevista1_20261106_092932.mp3
+Detected language: es (probability: 1.00)
+
+[0.1s → 11.8s] Entonces, querido compañero, ¿usted cómo le hace cuando su profesor le solicita a usted escribir en un documento Word cumpliendo al 100% con el estilo de citación APA 7?
+[12.6s → 20.0s] ¿Usted lo que realiza es estudiar algo en específico o con solo observar un video-material de YouTube ya pasa a realizarlo?
+[20.0s → 38.0s] Para la creación, bueno, lo que sería normas APA, yo utilizo lo que sería una SKILL conectada a Claude, que lo hago desde mi computadora, en la cual me hace que cualquier cita que yo le suba, verifique la información, vea que sea un link real, que tenga datos veridicos y que tenga relevancia según el tema que yo tengo también.
+[38.2s → 46.8s] Le paso el documento, obviamente, y pues ve que si es la parte que corresponde o si es una cita válida. Entonces, con eso hago la parte de citaciones.
+[46.8s → 57.7s] Perfecto, en este momento nos encontramos entrevistando a Fernando Gonzalez, estudiante de la carrera de computación del séptimo ciclo, y él nos está comentando cómo es el flujo de trabajo para poder formatear documentos.
+[58.5s → 62.0s] Con respecto a eso, ¿qué tantos créditos te consume Claude cuando lo haces?
+[62.9s → 80.6s] 👁️Ahorita es como tengo el plan gratis, me consume entre 100 créditos en Claude, porque además de eso también tengo skill para lo que sería un armado (redaccion) y énfasis en lo que sería explicarle a Claude y asi el piense mejor y utiliza lo menos posible de créditos. 👁️
+[81.9s → 87.9s] ¿Para qué ciclo académico necesitaste utilizar esa guía (SKILL) la cual te ayudo a formatear los documentos de Word?
+[88.9s → 101.4s] Utilicé desde el ciclo séptimo, desde el ciclo séptimo, para lo que sería el armado ya de que vamos a empezar a la tesis, ya que estoy empezando con el papel de tesis.
+[101.4s → 112.6s] ¿Cómo manejas las citas y bibliografías? Acáso, Claude tiene un skill para conectarse con el programa de Zotero, Mendeley, o directamente lo hace verificando las citas a traves de su interfaz web.
+[113.7s → 128.8s] Con el skill que se conecta justamente a las cuatro, (es decir) a las tres cosas que mencionaste, son las más para ver la parte de Normas APA, y pues con eso comprueba que si es una cita bien estructurada (Nota del entrevistador. El encuestado no especifico la calidad con la que Claude compone las citas segun su clasificacion: parenteticas y / o narrativas ; ni tampoco menciono el como Claude incorpora a Mendeley / Zotero en su flujo de trabajo. Hasta el momento, comprendo que el entrevistado utiliza Claude con SKILLs y a lo mucho MCP para formatear sus documentos).
+[128.8s → 136.5s] ¿Sobre herramientas, páginas o algún otro truco aparte de Claude, has utilizado algun otra recurso?
+[138.2s → 145.8s] Aparte de Claude, también utilizo Llama, pero eso también sería un poco como utilizarlo privado, que utiliza la API de Claude, entonces casi no.
+[145.8s → 156.7s] ¿Y respecto a tus profesores, compañeros o algunos tutoriales que has visto sobre Norma APA, quizás recuerdas algun consejo / recurso suyo el cual te haya sido más eficiente comparado a utilizar Claude?
+[156.7s → 171.8s] Sí, al momento de la que sería citaciones cuando son varios autores, en el cual ETAE (Nota. No confirmado por calidad del audio: ETAF o ETAE o ETAM o ETAN), que si no recuerdo, que se me hace un poco más fácil y que siempre lo he llevado en todo lo que sería desde el colegio, que enseñaban a hacer todas las citaciones y demás.
+[171.8s → 178.8s] ¿Normalmente qué sientes cuando en cualquier materia el profesor anuncia que el trabajo debe ir con normas APA septima edición?
+[179.8s → 192.2s] Como ahora, pues contamos con lo que sería la IA, pues es mucho más fácil, pero pues sí es un poco agotador en la parte de buscar esta información que sea verdadera y que no se invente Claude, por decirlo así, en la parte de información de datos.
+[193.7s → 201.5s] En ese sentido, ¿cuál es tu peor experiencia que has tenido con los formatos de citaciones? ¿Qué pasó con el tiempo perdido y con tu nota al final?
+[201.5s → 228.2s] Pues fue casi los principios del tercer ciclo, que tenemos que hacer una parte de citaciones, en el cual pues sí fue un poco tedioso, ya que no existía tanto lo que sería Claude a ese nivel de poder hacer skills y demás, pero pues sí me tardó un poco de tiempo, ya que tenía que revisar mano a mano, si era información válida, si estaba dentro de lo que quería el ingeniero y demás.
+[228.2s → 236.3s] Exacto, entonces lo que ha costado más, según lo entiendo, es que puedas acoplar los requerimientos del ingeniero con lo que la IA produce por defecto, ¿verdad?
+[236.3s → 237.8s] Si.
+[238.1s → 249.9s] Bien, sobre todo ese proceso que forma escribir por tu cuenta, darle el formato de normas APA con los marcos, encabezados, y finalmente citar debidamente a la fuente correspondiente.
+[250.4s → 253.3s] ¿Qué parte de todas esas se te ha hecho más complicado?
+[253.3s → 256.4s] En la parte, ¿no puedo repetirlo?
+[257.7s → 264.5s] Cuando escribes, ¿das formato o citas un documento Word? ¿Cuál es la parte que se te hace más difícil de todo ese flujo?
+[264.5s → 269.8s] En la parte de, pues, ahorita sería la parte de verificación de información.
+[270.2s → 285.4s] De lo demás, es el propio flujo, ya que como tengo skills y demás en la parte del backlog, pues es súper flojo el proceso de escribir, transcribir, o también de poder revisar y verificar que todo sea correspondiente a normas APA de setpima edición, si el trabajo lo pide.
+[285.4s → 300.2s] Por ejemplo, si es que no te contabas con el clavo, o te proveerían una alternativa para escribir documentos de Word que te dé 100% de normas APA, incluyendo todo lo que mencionaste, ¿tú qué harías? ¿Confiarías en ese herramienta o los confiarías?
+[301.5s → 309.7s] Con la experiencia que tengo de la parte de sistemas, pues, investigaría más a fondo cómo funciona la aplicación, cómo funciona la parte de verificación,
+[309.7s → 331.1s] investigaria, pues, si es que es posible la documentación para ver qué tipos de verificaciones, con qué están basadas, si está actualizada también la parte de normas APA de efectiva edición, y pues, preferiría, pues, como tú dices, este, si está bien utilizada, o sea, si está bien comprobada, comprobada esa herramienta, pues, utilizaría esa a lo mejor.
+[331.6s → 337.2s] Ya. Suponiendo que sea positivo, entonces, ¿cómo preferirias el plan de pago?
+[337.2s → 343.9s] Que fuera gratis, con límites, así como lo es Claude, o una suscripción mensual, o bien un pago por cada documento que le mandas.
+[345.4s → 351.5s] Pues, para mí, como estudiante, preferiría que tenga un gratis, que sea una ca pa gratis también.
+[353.8s → 362.0s] Muy bien, para cerrar con la entrevista, vamos a hacerte una última pregunta que nos va a permitir conocer más sobre lo que a ti, que tienes tanto dominio del tema (experiencia empirica con los skills de claude), se te ha dificultado.
+[362.0s → 370.3s] Lo cual viene a ser, ¿quién te ha enseñado a citar Normas APA hasta ahora y que tan confortable te has sentido antes de que tú, por iniciativa propia, aprendieras a hacerlo?
+[370.9s → 373.3s] Es decir, Antes de que aprendieras a usar Claude, los skills y todo lo que me mencionaste.
+[373.3s → 387.8s] Pues, lo que sería enseñado, pues, me ha enseñado lo que sería el transcurso de los profesores de usar la misma técnica, en la cual, pues, nos han dado algunos tips, algunos consejos, algunos libros para leer.
+[387.8s → 392.8s] Pero, Creo en sí, lo que más he aprendido es a través de videos de YouTube, cuando no sabia mas antes.
+[393.7s → 395.3s] Perfecto, muchas gracias, amigo compañero.
+[395.6s → 398.7s] Con esto tenemos una inducción suficiente para finalizar la entrevista.
